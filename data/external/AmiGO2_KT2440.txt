@@ -1,0 +1,166 @@
+UniProtKB	P0A171	rpoN		GO:0042802	PMID:23320542	IPI	UniProtKB:P0A171	F	RNA polymerase sigma-54 factor	ntrA|PP_0952	protein	NCBITaxon:160488	20201128	IntAct			identical protein binding
+UniProtKB	P0A171	rpoN		GO:0001216	PMID:19570137	IPI	RefSeq:NC_004956.1	F	RNA polymerase sigma-54 factor	ntrA|PP_0952	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	P0A171	rpoN		GO:0032993	PMID:19570137	IPI	RefSeq:NC_004956.1	C	RNA polymerase sigma-54 factor	ntrA|PP_0952	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	P0A171	rpoN		GO:0000976	PMID:19570137	IPI	RefSeq:NC_004956.1	F	RNA polymerase sigma-54 factor	ntrA|PP_0952	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	P0A171	rpoN		GO:0045893	PMID:19570137	IDA		P	RNA polymerase sigma-54 factor	ntrA|PP_0952	protein	NCBITaxon:160488	20170328	CollecTF			positive regulation of transcription, DNA-templated
+UniProtKB	P0A153	lexA1		GO:0045892	PMID:17933893	EXP		P	LexA repressor 1	lexA|lexA-1|PP_2143	protein	NCBITaxon:160488	20170328	CollecTF			negative regulation of transcription, DNA-templated
+UniProtKB	P0A126	ihfA		GO:0001217	PMID:17217960	IPI	RefSeq:NC_002947.3	F	Integration host factor subunit alpha	himA|PP_2471	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	P0A126	ihfA		GO:0032993	PMID:17217960	IPI	RefSeq:NC_002947.3	C	Integration host factor subunit alpha	himA|PP_2471	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	P0A126	ihfA		GO:0000976	PMID:17217960	IPI	RefSeq:NC_002947.3	F	Integration host factor subunit alpha	himA|PP_2471	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	P0A126	ihfA		GO:0001217	PMID:17217960	IMP		F	Integration host factor subunit alpha	himA|PP_2471	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	P0A126	ihfA		GO:0001216	PMID:21958188	IMP		F	Integration host factor subunit alpha	himA|PP_2471	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	P0A126	ihfA		GO:0032993	PMID:17217960	IMP		C	Integration host factor subunit alpha	himA|PP_2471	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	P0A126	ihfA		GO:0032993	PMID:21958188	IMP		C	Integration host factor subunit alpha	himA|PP_2471	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	P0A126	ihfA		GO:0000976	PMID:17217960	IMP		F	Integration host factor subunit alpha	himA|PP_2471	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	P0A126	ihfA		GO:0000976	PMID:21958188	IMP		F	Integration host factor subunit alpha	himA|PP_2471	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88JX5	galA		GO:0019396	PMID:21219457	IDA		P	Gallate dioxygenase	PP_2518	protein	NCBITaxon:160488	20120727	UniProt			gallate catabolic process
+UniProtKB	Q88JX5	galA		GO:0036238	PMID:21219457	IDA		F	Gallate dioxygenase	PP_2518	protein	NCBITaxon:160488	20120727	UniProt			gallate dioxygenase activity
+UniProtKB	Q88JX5	galA		GO:0036238	PMID:16030014	IDA		F	Gallate dioxygenase	PP_2518	protein	NCBITaxon:160488	20120727	UniProt			gallate dioxygenase activity
+UniProtKB	Q88JX5	galA		GO:0008198	PMID:16030014	IDA		F	Gallate dioxygenase	PP_2518	protein	NCBITaxon:160488	20120727	UniProt			ferrous iron binding
+UniProtKB	Q88JX5	galA		GO:0055114	PMID:21219457	IDA		P	Gallate dioxygenase	PP_2518	protein	NCBITaxon:160488	20120727	UniProt			obsolete oxidation-reduction process
+UniProtKB	Q88HH7	ptxS		GO:0042802	PMID:20581202	IPI	UniProtKB:Q88HH7	F	HTH lacI-type domain-containing protein	PP_3380	protein	NCBITaxon:160488	20201128	IntAct			identical protein binding
+UniProtKB	Q88HH7	ptxS		GO:0001217	PMID:20581202	IPI	RefSeq:NC_002947.3	F	HTH lacI-type domain-containing protein	PP_3380	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	Q88HH7	ptxS		GO:0032993	PMID:20581202	IPI	RefSeq:NC_002947.3	C	HTH lacI-type domain-containing protein	PP_3380	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88HH7	ptxS		GO:0000976	PMID:20581202	IPI	RefSeq:NC_002947.3	F	HTH lacI-type domain-containing protein	PP_3380	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88GK5	catR		GO:0001216	PMID:1649820	EXP		F	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88GK5	catR		GO:0001216	PMID:1649820	IPI	RefSeq:NC_002947.3	F	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88GK5	catR		GO:0001216	PMID:9079907	IPI	RefSeq:NC_002947.3	F	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88GK5	catR		GO:0032993	PMID:1649820	EXP		C	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88GK5	catR		GO:0032993	PMID:1649820	IPI	RefSeq:NC_002947.3	C	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88GK5	catR		GO:0032993	PMID:9079907	IPI	RefSeq:NC_002947.3	C	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88GK5	catR		GO:0000976	PMID:1649820	EXP		F	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88GK5	catR		GO:0000976	PMID:1649820	IPI	RefSeq:NC_002947.3	F	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88GK5	catR		GO:0000976	PMID:9079907	IPI	RefSeq:NC_002947.3	F	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88GK5	catR		GO:0045893	PMID:9079907	IDA		P	HTH lysR-type domain-containing protein	PP_3716	protein	NCBITaxon:160488	20170328	CollecTF			positive regulation of transcription, DNA-templated
+UniProtKB	Q88M11	mupP		GO:0009254	PMID:28351914	IMP		P	N-acetylmuramic acid 6-phosphate phosphatase	gph|PP_1764	protein	NCBITaxon:160488	20170620	UniProt			peptidoglycan turnover
+UniProtKB	Q88M11	mupP		GO:0016791	PMID:28351914	IDA		F	N-acetylmuramic acid 6-phosphate phosphatase	gph|PP_1764	protein	NCBITaxon:160488	20170620	UniProt			phosphatase activity
+UniProtKB	Q88M11	mupP		GO:0097172	PMID:28351914	IDA		P	N-acetylmuramic acid 6-phosphate phosphatase	gph|PP_1764	protein	NCBITaxon:160488	20170620	UniProt			N-acetylmuramic acid metabolic process
+UniProtKB	Q88FY5	nicF		GO:0019439	PMID:18678916	IDA		P	Maleamate amidohydrolase	PP_3941	protein	NCBITaxon:160488	20120629	UniProt			aromatic compound catabolic process
+UniProtKB	Q88FY5	nicF		GO:0016811	PMID:18678916	IDA		F	Maleamate amidohydrolase	PP_3941	protein	NCBITaxon:160488	20120629	UniProt			hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+UniProtKB	Q88FY4	maiA		GO:0050076	GO_REF:0000024	ISS	UniProtKB:O24766	F	Maleate isomerase	nicE|PP_3942	protein	NCBITaxon:160488	20120629	UniProt			maleate isomerase activity
+UniProtKB	Q88FY4	maiA		GO:0051289	GO_REF:0000024	ISS	UniProtKB:O24766	P	Maleate isomerase	nicE|PP_3942	protein	NCBITaxon:160488	20120629	UniProt			protein homotetramerization
+UniProtKB	Q88FY3	nicD		GO:0019439	PMID:18678916	IDA		P	N-formylmaleamate deformylase	PP_3943	protein	NCBITaxon:160488	20120629	UniProt			aromatic compound catabolic process
+UniProtKB	Q88FY3	nicD		GO:0016811	PMID:18678916	IDA		F	N-formylmaleamate deformylase	PP_3943	protein	NCBITaxon:160488	20120629	UniProt			hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides
+UniProtKB	Q88FY2	nicC		GO:0019439	PMID:18678916	IDA		P	6-hydroxynicotinate 3-monooxygenase	PP_3944	protein	NCBITaxon:160488	20120629	UniProt			aromatic compound catabolic process
+UniProtKB	Q88FY2	nicC		GO:0004497	PMID:18678916	IDA		F	6-hydroxynicotinate 3-monooxygenase	PP_3944	protein	NCBITaxon:160488	20120629	UniProt			monooxygenase activity
+UniProtKB	Q88FY2	nicC		GO:0055114	PMID:18678916	IDA		P	6-hydroxynicotinate 3-monooxygenase	PP_3944	protein	NCBITaxon:160488	20120629	UniProt			obsolete oxidation-reduction process
+UniProtKB	Q88FY1	nicX		GO:0019439	PMID:18678916	IDA		P	2,5-dihydroxypyridine 5,6-dioxygenase	PP_3945	protein	NCBITaxon:160488	20120629	UniProt			aromatic compound catabolic process
+UniProtKB	Q88FY1	nicX		GO:0047075	PMID:18678916	IDA		F	2,5-dihydroxypyridine 5,6-dioxygenase	PP_3945	protein	NCBITaxon:160488	20120629	UniProt			2,5-dihydroxypyridine 5,6-dioxygenase activity
+UniProtKB	Q88FY1	nicX		GO:0055114	PMID:18678916	IDA		P	2,5-dihydroxypyridine 5,6-dioxygenase	PP_3945	protein	NCBITaxon:160488	20120629	UniProt			obsolete oxidation-reduction process
+UniProtKB	Q88JX9	galC		GO:0016833	PMID:21219457	IDA		F	4-carboxy-4-hydroxy-2-oxoadipic acid aldolase	PP_2514	protein	NCBITaxon:160488	20120727	UniProt			oxo-acid-lyase activity
+UniProtKB	Q88JX9	galC		GO:0019396	PMID:21219457	IDA		P	4-carboxy-4-hydroxy-2-oxoadipic acid aldolase	PP_2514	protein	NCBITaxon:160488	20120727	UniProt			gallate catabolic process
+UniProtKB	P59479	lexA2		GO:0001217	PMID:15458417	IMP		F	LexA repressor 2	lexA-2|PP_3116	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	P59479	lexA2		GO:0032993	PMID:15458417	IMP		C	LexA repressor 2	lexA-2|PP_3116	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	P59479	lexA2		GO:0045892	PMID:15458417	EXP		P	LexA repressor 2	lexA-2|PP_3116	protein	NCBITaxon:160488	20170328	CollecTF			negative regulation of transcription, DNA-templated
+UniProtKB	P59479	lexA2		GO:0045892	PMID:17933893	EXP		P	LexA repressor 2	lexA-2|PP_3116	protein	NCBITaxon:160488	20170328	CollecTF			negative regulation of transcription, DNA-templated
+UniProtKB	P59479	lexA2		GO:0000976	PMID:15458417	IMP		F	LexA repressor 2	lexA-2|PP_3116	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88KX1	tal		GO:0004801	GO_REF:0000024	ISS	UniProtKB:P0A870	F	Transaldolase	PP_2168	protein	NCBITaxon:160488	20130702	UniProt			sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity
+UniProtKB	Q88JY0	galD		GO:0019396	PMID:21219457	IDA		P	4-oxalomesaconate tautomerase	PP_2513	protein	NCBITaxon:160488	20120727	UniProt			gallate catabolic process
+UniProtKB	Q88JY0	galD		GO:0016863	PMID:21219457	IDA		F	4-oxalomesaconate tautomerase	PP_2513	protein	NCBITaxon:160488	20120727	UniProt			intramolecular oxidoreductase activity, transposing C=C bonds
+UniProtKB	Q88JX8	galB		GO:0047584	PMID:21219457	IDA		F	4-oxalmesaconate hydratase	PP_2515	protein	NCBITaxon:160488	20120727	UniProt			4-oxalmesaconate hydratase activity
+UniProtKB	Q88JX8	galB		GO:0019396	PMID:21219457	IDA		P	4-oxalmesaconate hydratase	PP_2515	protein	NCBITaxon:160488	20120727	UniProt			gallate catabolic process
+UniProtKB	Q88JU3	quiC1		GO:0019631	PMID:27706847	ISS	UniProtKB:Q9I6P6	P	3-dehydroshikimate dehydratase	quiC|PP_2554	protein	NCBITaxon:160488	20191031	UniProt			quinate catabolic process
+UniProtKB	Q88JU3	quiC1		GO:0019633	PMID:27706847	ISS	UniProtKB:Q9I6P6	P	3-dehydroshikimate dehydratase	quiC|PP_2554	protein	NCBITaxon:160488	20191031	UniProt			shikimate catabolic process
+UniProtKB	Q88JU3	quiC1		GO:0046565	PMID:27706847	IDA		F	3-dehydroshikimate dehydratase	quiC|PP_2554	protein	NCBITaxon:160488	20191031	UniProt			3-dehydroshikimate dehydratase activity
+UniProtKB	Q88JU3	quiC1		GO:0000287	PMID:27706847	IDA		F	3-dehydroshikimate dehydratase	quiC|PP_2554	protein	NCBITaxon:160488	20191031	UniProt			magnesium ion binding
+UniProtKB	Q88J44	PP_2805		GO:0016709	PMID:17530181	IDA		F	Baeyer-Villiger monooxygenase		protein	NCBITaxon:160488	20141110	UniProt			oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen
+UniProtKB	Q88J44	PP_2805		GO:0055114	PMID:17530181	IDA		P	Baeyer-Villiger monooxygenase		protein	NCBITaxon:160488	20141111	UniProt			obsolete oxidation-reduction process
+UniProtKB	Q88F34	fnrA		GO:0001217	PMID:18341582	IPI	RefSeq:NC_002947.3	F	DNA-binding transcriptional dual regulator	PP_4265	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	Q88F34	fnrA		GO:0001216	PMID:18341582	IPI	RefSeq:NC_002947.3	F	DNA-binding transcriptional dual regulator	PP_4265	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88F34	fnrA		GO:0032993	PMID:18341582	IPI	RefSeq:NC_002947.3	C	DNA-binding transcriptional dual regulator	PP_4265	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88F34	fnrA		GO:0000976	PMID:18341582	IPI	RefSeq:NC_002947.3	F	DNA-binding transcriptional dual regulator	PP_4265	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88F34	fnrA		GO:0045893	PMID:18341582	EXP		P	DNA-binding transcriptional dual regulator	PP_4265	protein	NCBITaxon:160488	20170328	CollecTF			positive regulation of transcription, DNA-templated
+UniProtKB	Q88F34	fnrA		GO:0045892	PMID:18341582	EXP		P	DNA-binding transcriptional dual regulator	PP_4265	protein	NCBITaxon:160488	20170328	CollecTF			negative regulation of transcription, DNA-templated
+UniProtKB	Q88EI9	PP_4473		GO:0004072	PMID:5441401	IDA		F	Aspartate kinase		protein	NCBITaxon:160488	20140310	UniProt			aspartate kinase activity
+UniProtKB	Q88EH4	phhR		GO:0001216	PMID:17217960	IPI	RefSeq:NC_002947.3	F	Transcriptional regulatory protein TyrR	PP_4489	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88EH4	phhR		GO:0001216	PMID:19781550	IPI	RefSeq:NC_002947.3	F	Transcriptional regulatory protein TyrR	PP_4489	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88EH4	phhR		GO:0032993	PMID:17217960	IPI	RefSeq:NC_002947.3	C	Transcriptional regulatory protein TyrR	PP_4489	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88EH4	phhR		GO:0032993	PMID:19781550	IPI	RefSeq:NC_002947.3	C	Transcriptional regulatory protein TyrR	PP_4489	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88EH4	phhR		GO:0000976	PMID:17217960	IPI	RefSeq:NC_002947.3	F	Transcriptional regulatory protein TyrR	PP_4489	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88EH4	phhR		GO:0000976	PMID:19781550	IPI	RefSeq:NC_002947.3	F	Transcriptional regulatory protein TyrR	PP_4489	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88EH4	phhR		GO:0001216	PMID:17217960	IMP		F	Transcriptional regulatory protein TyrR	PP_4489	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88EH4	phhR		GO:0032993	PMID:17217960	IMP		C	Transcriptional regulatory protein TyrR	PP_4489	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88EH4	phhR		GO:0000976	PMID:17217960	IMP		F	Transcriptional regulatory protein TyrR	PP_4489	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88E47	hmgA		GO:0004411	PMID:23858455	IDA		F	Homogentisate 1,2-dioxygenase	PP_4621	protein	NCBITaxon:160488	20140401	UniProt			homogentisate 1,2-dioxygenase activity
+UniProtKB	Q88E47	hmgA		GO:0006572	PMID:23858455	IDA		P	Homogentisate 1,2-dioxygenase	PP_4621	protein	NCBITaxon:160488	20140401	UniProt			tyrosine catabolic process
+UniProtKB	Q88E47	hmgA		GO:0005506	PMID:23858455	IDA		F	Homogentisate 1,2-dioxygenase	PP_4621	protein	NCBITaxon:160488	20140401	UniProt			iron ion binding
+UniProtKB	Q88E47	hmgA		GO:0006559	PMID:23858455	IDA		P	Homogentisate 1,2-dioxygenase	PP_4621	protein	NCBITaxon:160488	20140401	UniProt			L-phenylalanine catabolic process
+UniProtKB	Q88E47	hmgA		GO:0001217	PMID:15262943	IPI	RefSeq:NC_002947.3	F	Homogentisate 1,2-dioxygenase	PP_4621	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	Q88E47	hmgA		GO:0032993	PMID:15262943	IPI	RefSeq:NC_002947.3	C	Homogentisate 1,2-dioxygenase	PP_4621	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88E47	hmgA		GO:0000976	PMID:15262943	IPI	RefSeq:NC_002947.3	F	Homogentisate 1,2-dioxygenase	PP_4621	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88E47	hmgA		GO:0045892	PMID:15262943	IDA		P	Homogentisate 1,2-dioxygenase	PP_4621	protein	NCBITaxon:160488	20170328	CollecTF			negative regulation of transcription, DNA-templated
+UniProtKB	Q88CY1	glnG		GO:0001217	PMID:20735780	IPI	RefSeq:NC_002947.3	F	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	Q88CY1	glnG		GO:0001216	PMID:19648236	IPI	RefSeq:NC_002947.3	F	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88CY1	glnG		GO:0032993	PMID:19648236	IPI	RefSeq:NC_002947.3	C	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88CY1	glnG		GO:0032993	PMID:20735780	IPI	RefSeq:NC_002947.3	C	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88CY1	glnG		GO:0000976	PMID:19648236	IPI	RefSeq:NC_002947.3	F	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88CY1	glnG		GO:0000976	PMID:20735780	IPI	RefSeq:NC_002947.3	F	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88CY1	glnG		GO:0001217	PMID:20735780	IMP		F	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	Q88CY1	glnG		GO:0032993	PMID:20735780	IMP		C	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88CY1	glnG		GO:0045892	PMID:20735780	IDA		P	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			negative regulation of transcription, DNA-templated
+UniProtKB	Q88CY1	glnG		GO:0000976	PMID:20735780	IMP		F	DNA-binding transcriptional regulator NtrC	ntrC|PP_5048	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88PQ6	cra		GO:0032993	PMID:21239488	IPI	RefSeq:NC_002947.3	C	Catabolite repressor/activator	PP_0792	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88PQ6	cra		GO:0043565	PMID:21239488	IPI	RefSeq:NC_002947.3	F	Catabolite repressor/activator	PP_0792	protein	NCBITaxon:160488	20170328	CollecTF			sequence-specific DNA binding
+UniProtKB	Q88RQ6	hemF		GO:0042803	GO_REF:0000024	ISS	UniProtKB:P36551	F	Oxygen-dependent coproporphyrinogen-III oxidase	PP_0073	protein	NCBITaxon:160488	20091105	UniProt			protein homodimerization activity
+UniProtKB	Q88RC0	davD		GO:0019477	GO_REF:0000024	ISS	UniProtKB:Q9I6M5	P	Glutarate-semialdehyde dehydrogenase	PP_0213	protein	NCBITaxon:160488	20120605	UniProt			L-lysine catabolic process
+UniProtKB	Q88RC0	davD		GO:0047949	GO_REF:0000024	ISS	UniProtKB:Q9I6M5	F	Glutarate-semialdehyde dehydrogenase	PP_0213	protein	NCBITaxon:160488	20120605	UniProt			glutarate-semialdehyde dehydrogenase (NAD+) activity
+UniProtKB	Q88RB9	davT		GO:0019477	PMID:11679348	IMP		P	5-aminovalerate aminotransferase DavT	PP_0214	protein	NCBITaxon:160488	20120605	UniProt			L-lysine catabolic process
+UniProtKB	Q88RB9	davT		GO:0047589	PMID:11679348	IDA		F	5-aminovalerate aminotransferase DavT	PP_0214	protein	NCBITaxon:160488	20120605	UniProt			5-aminovalerate transaminase activity
+UniProtKB	Q88QT3	amgK		GO:0009254	PMID:23831760	IMP		P	N-acetylmuramate/N-acetylglucosamine kinase	PP_0405	protein	NCBITaxon:160488	20170620	UniProt			peptidoglycan turnover
+UniProtKB	Q88QT3	amgK		GO:0005524	PMID:23831760	IDA		F	N-acetylmuramate/N-acetylglucosamine kinase	PP_0405	protein	NCBITaxon:160488	20170620	UniProt			ATP binding
+UniProtKB	Q88QT3	amgK		GO:0019200	PMID:23831760	IDA		F	N-acetylmuramate/N-acetylglucosamine kinase	PP_0405	protein	NCBITaxon:160488	20170620	UniProt			carbohydrate kinase activity
+UniProtKB	Q88QT3	amgK		GO:0097172	PMID:23831760	IDA		P	N-acetylmuramate/N-acetylglucosamine kinase	PP_0405	protein	NCBITaxon:160488	20170620	UniProt			N-acetylmuramic acid metabolic process
+UniProtKB	Q88QT2	murU		GO:0009254	PMID:23831760	IMP		P	N-acetylmuramate alpha-1-phosphate uridylyltransferase	PP_0406	protein	NCBITaxon:160488	20170620	UniProt			peptidoglycan turnover
+UniProtKB	Q88QT2	murU		GO:0097172	PMID:23831760	IMP		P	N-acetylmuramate alpha-1-phosphate uridylyltransferase	PP_0406	protein	NCBITaxon:160488	20170620	UniProt			N-acetylmuramic acid metabolic process
+UniProtKB	Q88QT2	murU		GO:0070569	PMID:23831760	IDA		F	N-acetylmuramate alpha-1-phosphate uridylyltransferase	PP_0406	protein	NCBITaxon:160488	20170620	UniProt			uridylyltransferase activity
+UniProtKB	Q88QT2	murU		GO:0070569	PMID:25767118	IDA		F	N-acetylmuramate alpha-1-phosphate uridylyltransferase	PP_0406	protein	NCBITaxon:160488	20170620	UniProt			uridylyltransferase activity
+UniProtKB	Q88QT2	murU		GO:0002134	PMID:25767118	IDA		F	N-acetylmuramate alpha-1-phosphate uridylyltransferase	PP_0406	protein	NCBITaxon:160488	20170620	UniProt			UTP binding
+UniProtKB	Q88QT2	murU		GO:0000287	PMID:25767118	IDA		F	N-acetylmuramate alpha-1-phosphate uridylyltransferase	PP_0406	protein	NCBITaxon:160488	20170620	UniProt			magnesium ion binding
+UniProtKB	Q88QT2	murU		GO:0097367	PMID:25767118	IDA		F	N-acetylmuramate alpha-1-phosphate uridylyltransferase	PP_0406	protein	NCBITaxon:160488	20170620	UniProt			carbohydrate derivative binding
+UniProtKB	Q88QS0	estP		GO:0016290	PMID:20931591	IDA		F	Esterase EstP	PP_0418	protein	NCBITaxon:160488	20110302	UniProt			palmitoyl-CoA hydrolase activity
+UniProtKB	Q88QS0	estP		GO:0052689	PMID:20931591	IDA		F	Esterase EstP	PP_0418	protein	NCBITaxon:160488	20110302	UniProt			carboxylic ester hydrolase activity
+UniProtKB	Q88QR4	crp		GO:0001216	PMID:22081386	IPI	RefSeq:NC_002947.3	F	DNA-binding transcriptional dual regulator	PP_0424	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88QR4	crp		GO:0032993	PMID:22081386	IPI	RefSeq:NC_002947.3	C	DNA-binding transcriptional dual regulator	PP_0424	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88QR4	crp		GO:0000976	PMID:22081386	IPI	RefSeq:NC_002947.3	F	DNA-binding transcriptional dual regulator	PP_0424	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88QR4	crp		GO:0032993	PMID:22081386	IMP		C	DNA-binding transcriptional dual regulator	PP_0424	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88QR4	crp		GO:0001216	PMID:22081386	IMP		F	DNA-binding transcriptional dual regulator	PP_0424	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88QR4	crp		GO:0000976	PMID:22081386	IMP		F	DNA-binding transcriptional dual regulator	PP_0424	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88C74	oxyR		GO:0045892	PMID:17107553	EXP		P	HTH lysR-type domain-containing protein	PP_5309	protein	NCBITaxon:160488	20170328	CollecTF			negative regulation of transcription, DNA-templated
+UniProtKB	Q88Q83	thiO		GO:0009228	PMID:26875494	NAS		P	Glycine oxidase	PP_0612	protein	NCBITaxon:160488	20170403	UniProt			thiamine biosynthetic process
+UniProtKB	Q88Q83	thiO		GO:0043799	PMID:26875494	IDA		F	Glycine oxidase	PP_0612	protein	NCBITaxon:160488	20170403	UniProt			glycine oxidase activity
+UniProtKB	Q88Q83	thiO		GO:0006520	PMID:26875494	IDA		P	Glycine oxidase	PP_0612	protein	NCBITaxon:160488	20170403	UniProt			cellular amino acid metabolic process
+UniProtKB	Q88Q83	thiO		GO:0071949	PMID:26875494	IDA		F	Glycine oxidase	PP_0612	protein	NCBITaxon:160488	20170403	UniProt			FAD binding
+UniProtKB	Q88PE9	colR		GO:0001217	PMID:19445690	IPI	RefSeq:NC_002947.3	F	DNA-binding response regulator	PP_0901	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	Q88PE9	colR		GO:0001216	PMID:19445690	IPI	RefSeq:NC_002947.3	F	DNA-binding response regulator	PP_0901	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88PE9	colR		GO:0032993	PMID:19445690	IPI	RefSeq:NC_002947.3	C	DNA-binding response regulator	PP_0901	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88PE9	colR		GO:0000976	PMID:19445690	IPI	RefSeq:NC_002947.3	F	DNA-binding response regulator	PP_0901	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88P32	hexR		GO:0001217	PMID:19506074	IPI	RefSeq:NC_002947.3	F	HTH-type transcriptional regulator HexR	PP_1021	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	Q88P32	hexR		GO:0032993	PMID:19506074	IPI	RefSeq:NC_002947.3	C	HTH-type transcriptional regulator HexR	PP_1021	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88P32	hexR		GO:0000976	PMID:19506074	IPI	RefSeq:NC_002947.3	F	HTH-type transcriptional regulator HexR	PP_1021	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88NX8	glpK		GO:0006071	GO_REF:0000024	ISS	UniProtKB:P0A6F3	P	Glycerol kinase	PP_1075	protein	NCBITaxon:160488	20130927	UniProt			glycerol metabolic process
+UniProtKB	Q88NX8	glpK		GO:0004370	GO_REF:0000024	ISS	UniProtKB:P0A6F3	F	Glycerol kinase	PP_1075	protein	NCBITaxon:160488	20130927	UniProt			glycerol kinase activity
+UniProtKB	Q88NW9	tsaA		GO:0042802	PMID:26278368	IPI	UniProtKB:Q88NW9	F	Alkyl hydroperoxide reductase C	PP_1084	protein	NCBITaxon:160488	20201128	IntAct			identical protein binding
+UniProtKB	Q88RA3	tauD		GO:0042802	PMID:22221834	IPI	UniProtKB:Q88RA3	F	Alpha-ketoglutarate-dependent taurine dioxygenase	atsK|PP_0230	protein	NCBITaxon:160488	20201128	IntAct			identical protein binding
+UniProtKB	Q88RA3	tauD		GO:0000907	PMID:22221834	IDA		F	Alpha-ketoglutarate-dependent taurine dioxygenase	atsK|PP_0230	protein	NCBITaxon:160488	20190930	UniProt			sulfonate dioxygenase activity
+UniProtKB	Q88RA3	tauD		GO:0000908	PMID:22221834	IDA		F	Alpha-ketoglutarate-dependent taurine dioxygenase	atsK|PP_0230	protein	NCBITaxon:160488	20190930	UniProt			taurine dioxygenase activity
+UniProtKB	Q88RA3	tauD		GO:0005506	PMID:22221834	IDA		F	Alpha-ketoglutarate-dependent taurine dioxygenase	atsK|PP_0230	protein	NCBITaxon:160488	20190930	UniProt			iron ion binding
+UniProtKB	Q88RA3	tauD		GO:0044273	PMID:22221834	IDA		P	Alpha-ketoglutarate-dependent taurine dioxygenase	atsK|PP_0230	protein	NCBITaxon:160488	20190930	UniProt			sulfur compound catabolic process
+UniProtKB	Q88RJ2	gltP		GO:0001216	PMID:18310026	IPI	RefSeq:NC_002947.3	F	Probable proton/glutamate-aspartate symporter	PP_0137	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88RJ2	gltP		GO:0032993	PMID:18310026	IPI	RefSeq:NC_002947.3	C	Probable proton/glutamate-aspartate symporter	PP_0137	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88RJ2	gltP		GO:0000976	PMID:18310026	IPI	RefSeq:NC_002947.3	F	Probable proton/glutamate-aspartate symporter	PP_0137	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88N41	pcaR		GO:0032993	PMID:10231483	IPI	RefSeq:NC_002947.3	C	Transcription regulatory protein (Pca regulon)	PP_1375	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88N41	pcaR		GO:0001217	PMID:8083169	IMP		F	Transcription regulatory protein (Pca regulon)	PP_1375	protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	Q88N41	pcaR		GO:0032993	PMID:8083169	IMP		C	Transcription regulatory protein (Pca regulon)	PP_1375	protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88N41	pcaR		GO:0000976	PMID:8083169	IMP		F	Transcription regulatory protein (Pca regulon)	PP_1375	protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding
+UniProtKB	Q88N41	pcaR		GO:0045892	PMID:8083169	IEP		P	Transcription regulatory protein (Pca regulon)	PP_1375	protein	NCBITaxon:160488	20170328	CollecTF			negative regulation of transcription, DNA-templated
+UniProtKB	Q88N41	pcaR		GO:0043565	PMID:10231483	IPI	RefSeq:NC_002947.3	F	Transcription regulatory protein (Pca regulon)	PP_1375	protein	NCBITaxon:160488	20170328	CollecTF			sequence-specific DNA binding
+UniProtKB	Q88FX8	nicB		GO:0019439	PMID:18678916	IDA		P	Nicotinate dehydrogenase subunit B	ndhL|PP_3948	protein	NCBITaxon:160488	20120629	UniProt			aromatic compound catabolic process
+UniProtKB	Q88FX8	nicB		GO:0016725	PMID:18678916	IDA		F	Nicotinate dehydrogenase subunit B	ndhL|PP_3948	protein	NCBITaxon:160488	20120629	UniProt			oxidoreductase activity, acting on CH or CH2 groups
+UniProtKB	Q88FX8	nicB		GO:0055114	PMID:18678916	IDA		P	Nicotinate dehydrogenase subunit B	ndhL|PP_3948	protein	NCBITaxon:160488	20120629	UniProt			obsolete oxidation-reduction process
+UniProtKB	Q88FX9	nicA		GO:0019439	PMID:18678916	IDA		P	Nicotinate dehydrogenase subunit A	ndhS|PP_3947	protein	NCBITaxon:160488	20120629	UniProt			aromatic compound catabolic process
+UniProtKB	Q88FX9	nicA		GO:0016725	PMID:18678916	IDA		F	Nicotinate dehydrogenase subunit A	ndhS|PP_3947	protein	NCBITaxon:160488	20120629	UniProt			oxidoreductase activity, acting on CH or CH2 groups
+UniProtKB	Q88FX9	nicA		GO:0055114	PMID:18678916	IDA		P	Nicotinate dehydrogenase subunit A	ndhS|PP_3947	protein	NCBITaxon:160488	20120629	UniProt			obsolete oxidation-reduction process
+UniProtKB	Q88KZ5	PP_2144		GO:0001217	PMID:11914368	IPI	RefSeq:NC_002947.3	F	HTH tetR-type domain-containing protein		protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription repressor activity
+UniProtKB	Q88KZ5	PP_2144		GO:0001216	PMID:11914368	IPI	RefSeq:NC_002947.3	F	HTH tetR-type domain-containing protein		protein	NCBITaxon:160488	20170328	CollecTF			DNA-binding transcription activator activity
+UniProtKB	Q88KZ5	PP_2144		GO:0032993	PMID:11914368	IPI	RefSeq:NC_002947.3	C	HTH tetR-type domain-containing protein		protein	NCBITaxon:160488	20170328	CollecTF			protein-DNA complex
+UniProtKB	Q88KZ5	PP_2144		GO:0000976	PMID:11914368	IPI	RefSeq:NC_002947.3	F	HTH tetR-type domain-containing protein		protein	NCBITaxon:160488	20170328	CollecTF			transcription regulatory region sequence-specific DNA binding

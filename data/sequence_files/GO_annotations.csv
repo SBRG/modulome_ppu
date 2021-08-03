@@ -1,0 +1,167 @@
+,gene_id,gene_ontology
+0,,identical protein binding
+1,,DNA-binding transcription activator activity
+2,,protein-DNA complex
+3,,transcription regulatory region sequence-specific DNA binding
+4,,"positive regulation of transcription, DNA-templated"
+5,,"negative regulation of transcription, DNA-templated"
+6,,DNA-binding transcription repressor activity
+7,,protein-DNA complex
+8,,transcription regulatory region sequence-specific DNA binding
+9,,DNA-binding transcription repressor activity
+10,,DNA-binding transcription activator activity
+11,,protein-DNA complex
+12,,protein-DNA complex
+13,,transcription regulatory region sequence-specific DNA binding
+14,,transcription regulatory region sequence-specific DNA binding
+15,,gallate catabolic process
+16,,gallate dioxygenase activity
+17,,gallate dioxygenase activity
+18,,ferrous iron binding
+19,,obsolete oxidation-reduction process
+20,,identical protein binding
+21,,DNA-binding transcription repressor activity
+22,,protein-DNA complex
+23,,transcription regulatory region sequence-specific DNA binding
+24,,DNA-binding transcription activator activity
+25,,DNA-binding transcription activator activity
+26,,DNA-binding transcription activator activity
+27,,protein-DNA complex
+28,,protein-DNA complex
+29,,protein-DNA complex
+30,,transcription regulatory region sequence-specific DNA binding
+31,,transcription regulatory region sequence-specific DNA binding
+32,,transcription regulatory region sequence-specific DNA binding
+33,,"positive regulation of transcription, DNA-templated"
+34,,peptidoglycan turnover
+35,,phosphatase activity
+36,,N-acetylmuramic acid metabolic process
+37,,aromatic compound catabolic process
+38,,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+39,,maleate isomerase activity
+40,,protein homotetramerization
+41,,aromatic compound catabolic process
+42,,"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides"
+43,,aromatic compound catabolic process
+44,,monooxygenase activity
+45,,obsolete oxidation-reduction process
+46,,aromatic compound catabolic process
+47,,"2,5-dihydroxypyridine 5,6-dioxygenase activity"
+48,,obsolete oxidation-reduction process
+49,,oxo-acid-lyase activity
+50,,gallate catabolic process
+51,,DNA-binding transcription repressor activity
+52,,protein-DNA complex
+53,,"negative regulation of transcription, DNA-templated"
+54,,"negative regulation of transcription, DNA-templated"
+55,,transcription regulatory region sequence-specific DNA binding
+56,,sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity
+57,,gallate catabolic process
+58,,"intramolecular oxidoreductase activity, transposing C=C bonds"
+59,,4-oxalmesaconate hydratase activity
+60,,gallate catabolic process
+61,,quinate catabolic process
+62,,shikimate catabolic process
+63,,3-dehydroshikimate dehydratase activity
+64,,magnesium ion binding
+65,,"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen"
+66,,obsolete oxidation-reduction process
+67,,DNA-binding transcription repressor activity
+68,,DNA-binding transcription activator activity
+69,,protein-DNA complex
+70,,transcription regulatory region sequence-specific DNA binding
+71,,"positive regulation of transcription, DNA-templated"
+72,,"negative regulation of transcription, DNA-templated"
+73,,aspartate kinase activity
+74,,DNA-binding transcription activator activity
+75,,DNA-binding transcription activator activity
+76,,protein-DNA complex
+77,,protein-DNA complex
+78,,transcription regulatory region sequence-specific DNA binding
+79,,transcription regulatory region sequence-specific DNA binding
+80,,DNA-binding transcription activator activity
+81,,protein-DNA complex
+82,,transcription regulatory region sequence-specific DNA binding
+83,,"homogentisate 1,2-dioxygenase activity"
+84,,tyrosine catabolic process
+85,,iron ion binding
+86,,L-phenylalanine catabolic process
+87,,DNA-binding transcription repressor activity
+88,,protein-DNA complex
+89,,transcription regulatory region sequence-specific DNA binding
+90,,"negative regulation of transcription, DNA-templated"
+91,,DNA-binding transcription repressor activity
+92,,DNA-binding transcription activator activity
+93,,protein-DNA complex
+94,,protein-DNA complex
+95,,transcription regulatory region sequence-specific DNA binding
+96,,transcription regulatory region sequence-specific DNA binding
+97,,DNA-binding transcription repressor activity
+98,,protein-DNA complex
+99,,"negative regulation of transcription, DNA-templated"
+100,,transcription regulatory region sequence-specific DNA binding
+101,,protein-DNA complex
+102,,sequence-specific DNA binding
+103,,protein homodimerization activity
+104,,L-lysine catabolic process
+105,,glutarate-semialdehyde dehydrogenase (NAD+) activity
+106,,L-lysine catabolic process
+107,,5-aminovalerate transaminase activity
+108,,peptidoglycan turnover
+109,,ATP binding
+110,,carbohydrate kinase activity
+111,,N-acetylmuramic acid metabolic process
+112,,peptidoglycan turnover
+113,,N-acetylmuramic acid metabolic process
+114,,uridylyltransferase activity
+115,,uridylyltransferase activity
+116,,UTP binding
+117,,magnesium ion binding
+118,,carbohydrate derivative binding
+119,,palmitoyl-CoA hydrolase activity
+120,,carboxylic ester hydrolase activity
+121,,DNA-binding transcription activator activity
+122,,protein-DNA complex
+123,,transcription regulatory region sequence-specific DNA binding
+124,,protein-DNA complex
+125,,DNA-binding transcription activator activity
+126,,transcription regulatory region sequence-specific DNA binding
+127,,"negative regulation of transcription, DNA-templated"
+128,,thiamine biosynthetic process
+129,,glycine oxidase activity
+130,,cellular amino acid metabolic process
+131,,FAD binding
+132,,DNA-binding transcription repressor activity
+133,,DNA-binding transcription activator activity
+134,,protein-DNA complex
+135,,transcription regulatory region sequence-specific DNA binding
+136,,DNA-binding transcription repressor activity
+137,,protein-DNA complex
+138,,transcription regulatory region sequence-specific DNA binding
+139,,glycerol metabolic process
+140,,glycerol kinase activity
+141,,identical protein binding
+142,,identical protein binding
+143,,sulfonate dioxygenase activity
+144,,taurine dioxygenase activity
+145,,iron ion binding
+146,,sulfur compound catabolic process
+147,,DNA-binding transcription activator activity
+148,,protein-DNA complex
+149,,transcription regulatory region sequence-specific DNA binding
+150,,protein-DNA complex
+151,,DNA-binding transcription repressor activity
+152,,protein-DNA complex
+153,,transcription regulatory region sequence-specific DNA binding
+154,,"negative regulation of transcription, DNA-templated"
+155,,sequence-specific DNA binding
+156,,aromatic compound catabolic process
+157,,"oxidoreductase activity, acting on CH or CH2 groups"
+158,,obsolete oxidation-reduction process
+159,,aromatic compound catabolic process
+160,,"oxidoreductase activity, acting on CH or CH2 groups"
+161,,obsolete oxidation-reduction process
+162,,DNA-binding transcription repressor activity
+163,,DNA-binding transcription activator activity
+164,,protein-DNA complex
+165,,transcription regulatory region sequence-specific DNA binding
