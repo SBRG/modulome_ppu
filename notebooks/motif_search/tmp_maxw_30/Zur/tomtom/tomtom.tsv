@@ -1,0 +1,9 @@
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
+WRRYGTTATRWTRTAACAWKWHWHW	EXPREG_00000e20	-2	2.34703e-08	1.38709e-05	2.66326e-05	17	TAATGTTATGTTATAACAAGTCTAT	ATGTTATATTATAACAA	-
+CGNCATGRYVWTGVTCATSVYBABCAWGCC	EXPREG_000006f0	-2	7.90261e-08	4.67044e-05	8.70101e-05	28	CGTCATGGCCATGATCATGATCAGCATGCC	GCAAGGTCTTGATGCACCTGGGAAGGTT	-
+CGNCATGRYVWTGVTCATSVYBABCAWGCC	EXPREG_00001110	-10	1.41414e-06	0.000835755	0.000519003	17	CGTCATGGCCATGATCATGATCAGCATGCC	ATGAGAATGATTCTCAT	-
+TGTCRWGCWGCDGGVTSWTGSCKGCGHYSA	MX000186	-9	3.60869e-07	0.000213273	0.000423565	14	TGTCATGCTGCGGGGTCATGGCGGCGATCA	GGGGGGTGATGGCC	-
+
+# Tomtom (Motif Comparison Tool): Version 5.4.1 compiled on Jan  5 2022 at 19:22:10
+# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
+# tomtom -oc ./motif_search/tmp_maxw_30/Zur/tomtom -thresh 0.001 -incomplete-scores -png ./motif_search/tmp_maxw_30/Zur/meme.txt /Users/hyungyulim/opt/anaconda3/envs/pymodulon/lib/python3.9/site-packages/pymodulon/data/meme/collectf.meme /Users/hyungyulim/opt/anaconda3/envs/pymodulon/lib/python3.9/site-packages/pymodulon/data/meme/dpinteract.meme /Users/hyungyulim/opt/anaconda3/envs/pymodulon/lib/python3.9/site-packages/pymodulon/data/meme/prodoric.meme /Users/hyungyulim/opt/anaconda3/envs/pymodulon/lib/python3.9/site-packages/pymodulon/data/meme/regtransbase.meme /Users/hyungyulim/opt/anaconda3/envs/pymodulon/lib/python3.9/site-packages/pymodulon/data/meme/SwissRegulon_e_coli.meme

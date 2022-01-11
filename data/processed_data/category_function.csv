@@ -1,0 +1,85 @@
+﻿,Category,Sub_category,Function,iModulon_type
+Null-1,Uncharacterized,Empty,Null,Uncharacterized
+GbdR,Stress,Osmotic stress,Glycine Betaine Catabolism,Regulatory
+PP_2034-7,Carbon,Aromatics catabolism,Benzoate catabolism,Functional
+Multiple stress-1,Stress,Multiple stress,Multiple stress response,Functional
+PedR1-1,Carbon,Aromatics catabolism,Alcohol/aromatics catabolism,Regulatory
+Acetate stress,Stress,Acetate stress,Acetate specific response,Functional
+Noise-1,Uncharacterized,Noisy genes,"Noise, PP_2520 hypothetical protein, 117 bp",Uncharacterized
+Genomic-1,Genomic,Genomic iModulon,Muconate production study,Genomic
+Zinc,Element homeostasis,Metal homeostasis,Metal related response,Functional
+TCA cycle,Carbon,TCA cycle,TCA cycle,Functional
+Redox,Stress,Redox stress,Redox state homeostasis,Functional
+Pentose and glucuronate,Carbon,Sugar catabolism,Pentose and glucuronate interconversions,Functional
+GclR,Carbon,Sugar catabolism,C2 carbon metabolism,Regulatory
+FnrA-1,Energy generation,Oxidative phosphorylation,Redox state homeostasis,Regulatory
+Osmotic stress-1,Stress,Osmotic stress,"Osmotic stress, lipoprotein, membrane",Functional
+Phage-1,Phage,Phage,Phage related,Functional
+Multiple stress-2,Stress,Multiple stress,"Multiple stress response, PP_3231-89",Functional
+Putrescine,Carbon,Diverse metabolism,Polyamine metabolism,Functional
+Unchar-1,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+Zur,Element homeostasis,Metal homeostasis,Metal homeostasis,Regulatory
+Unchar-2,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+LldR,Carbon,Small carbon catabolism,Lactate catabolism,Regulatory
+VanR,Carbon,Aromatics catabolism,Aromatic acid catabolism,Regulatory
+Osmotic stress-2,Stress,Osmotic stress,Osmotic stress response,Functional
+ColR,Element homeostasis,Metal homeostasis,Metal related response,Regulatory
+Unchar-3,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+Exporters,Stress,Export,"FleQ related exporters, aldehyde stress",Functional
+BenR,Carbon,Aromatics catabolism,Aromatic acid catabolism,Regulatory
+PtxS,Carbon,Sugar catabolism,Sugar catabolism,Regulatory
+Noise-2,Uncharacterized,Noisy genes,"Noise, PP_1176 hypothetical protein, 135 bp",Uncharacterized
+PvdS,Secondary metabolite,Pyoverdine production,Pyoverdine biosynthesis,Regulatory
+BkdR,Stress,Stationary phase,Starvation response,Regulatory
+GltR-II,Carbon,Sugar catabolism,Sugar catabolism,Regulatory
+Unchar-4,Uncharacterized,Uncharacterized iModulons,ICE related,Uncharacterized
+Null-2,Uncharacterized,Empty,Null,Uncharacterized
+T6SS,Structural components,Secretion system,T6SS system,Functional
+InfA,Translation,Translation,Translation,Functional
+PydR/RpoS,Stress,Stationary phase,Stationary phase response,Regulatory
+FliA,Structural components,Cell mobility,Cell mobility,Regulatory
+PplR1,Stress,Osmotic stress,Light inducible iModulon,Regulatory
+Citrate,Carbon,Acid catabolism,Citrate transportation,Functional
+Unchar-5,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+Unchar-6,Uncharacterized,Uncharacterized iModulons,mfsR related,Uncharacterized
+AcoR,Carbon,Small carbon catabolism,Acetoin catabolism,Regulatory
+TurA-1,Secondary metabolite,Secondary metabolite biosynthesis,Biosynthesis of lipodepsinonapeptide phytotoxins,Regulatory
+Genomic-2,Genomic,Genomic iModulon,TurA deletion,Genomic
+HutC,Amino acid,Synthesis/degradation,Histidine metabolism,Regulatory
+Unchar-7,Uncharacterized,Uncharacterized iModulons,Galactose ALE specific,Uncharacterized
+Metr-I,Amino acid,Synthesis/degradation,Homocysteine metabolism,Regulatory
+AmrZ,Structural components,Biofilm,Alginate biosynthesis,Regulatory
+Noise-3,Uncharacterized,Noisy genes,"Noise, PP_5437 hypothetical protein, 183 bp",Uncharacterized
+Phage-2,Phage,Phage,Phage related,Functional
+HexR,Carbon,Sugar catabolism,Sugar catabolism,Regulatory
+Acetate,Carbon,Acid catabolism,Acetate utilization,Functional
+RbsR,Carbon,Ribose/lipid catabolism,"Ribose, nicotinic acid catabolism",Regulatory
+Translation,Translation,Translation,Protein synthesis,Functional
+PP_5350,Carbon,Acid catabolism,Glyoxylate and dicarboxylate metabolism,Regulatory
+PedR1-2,Carbon,Aromatics catabolism,Alcohol/aromatics catabolism,Regulatory
+PP_0204/CysB,Element homeostasis,Sulfur homeostasis,Sulfur metabolism,Regulatory
+IonicLiquid,Stress,Chemical stress,Triethylamine hydrogen sulfate stress,Functional
+GlnG,Amino acid,Transportation,Amino acid transportation,Regulatory
+Unchar-8,Uncharacterized,Uncharacterized iModulons,potentially iron metabolism,Uncharacterized
+OxyR,Stress,Oxidative stress,Oxidative stress,Regulatory
+Noise-4,Uncharacterized,Noisy genes,"Noise, kdpF, too small peptide",Uncharacterized
+PsrA,Carbon,Fatty acid catabolism,Fatty acid catabolism,Regulatory
+PcaR,Carbon,Aromatics catabolism,Aromatic acid catabolism,Regulatory
+Sulfur,Element homeostasis,Sulfur homeostasis,PP_3636-3639,Functional
+TurA-2,Translation,Posttranslation,Chaeperone,Regulatory
+FleQ/AmrZ,Structural components,Cell mobility,Flagella synthesis,Regulatory
+FnrA-2,Energy generation,Oxidative phosphorylation,potentially iron metabolism,Regulatory
+FruR,Carbon,Sugar catabolism,Fructose catabolism,Regulatory
+FleQ/Fur,Element homeostasis,Iron homeostasis,Inorganic ion transport and metabolism,Regulatory
+PP_2260-3,Carbon,Sugar catabolism,"PP_2260-3, sugar transport",Functional
+GcsR,Amino acid,Synthesis/degradation,Glycine metabolism,Regulatory
+PP_0615-8,Amino acid,Transportation,Branched amino acid transportation,Functional
+Noise-5,Uncharacterized,Noisy genes,"Noise, PP_1864, hypothetical protein, 153 bp",Uncharacterized
+LiuR,Carbon,Ribose/lipid catabolism,Ribose and lipid catabolism,Regulatory
+Unchar-9,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+HmgR,Amino acid,Synthesis/degradation,Tyrosine metabolism,Regulatory
+Null-3,Uncharacterized,Empty,Null,Uncharacterized
+GlcC,Carbon,Acid catabolism,Glycolate catabolism,Regulatory
+AA transport,Amino acid,Transportation,Amino acid transportation,Functional
+Genomic-3,Genomic,Genomic iModulon,TurB deletion,Genomic
+Noise-6,Uncharacterized,Noisy genes,"Noise, PP_0943, hypothetical protein, 393 bp",Uncharacterized

@@ -1,0 +1,85 @@
+,iModulon,function,size
+0,Null-1,Uncharaceterized,0.011927494
+1,GbdR,Stress,0.007779386
+2,PP_2034-7,Carbon,0.00561393
+3,Multiple stress-1,Stress,0.033817164
+4,PedR1-1,Carbon,0.001145629
+5,Acetate stress,Stress,0.006668013
+6,Noise-1,Uncharaceterized,0.000771316
+7,Genomic-1,Genomic iModulon,0.04893744
+8,Zinc,Element homeostasis,0.002119354
+9,TCA cycle,Carbon,0.007587298
+10,Redox,Stress,0.006252978
+11,Pentose and glucuronate,Carbon,0.008576195
+12,GclR,Carbon,0.007290177
+13,FnrA-1,Energy generation,0.007102999
+14,Osmotic stress-1,Stress,0.010120015
+15,Phage-1,Phage,0.005736398
+16,Multiple stress-2,Stress,0.006228065
+17,Putrescine,Carbon,0.004176435
+18,Uncharacterized-1,Uncharaceterized,0.009410149
+19,Zur,Element homeostasis,0.018591381
+20,Uncharacterized-2,Uncharaceterized,0.011536092
+21,LldR,Carbon,0.003315296
+22,VanR,Carbon,0.002390952
+23,Osmotic stress-2,Stress,0.01606762
+24,ColR,Element homeostasis,0.003427437
+25,Uncharacterized-3,Uncharaceterized,0.01778291
+26,Exporters,Stress,0.008094492
+27,BenR,Carbon,0.004792419
+28,PtxS,Carbon,0.012208159
+29,Noise-2,Uncharaceterized,0.000898718
+30,PvdS,Secondary metabolite,0.006608117
+31,BkdR,Stress,0.028436245
+32,GltR-II,Carbon,0.009041693
+33,Uncharacterized-4,Uncharaceterized,0.001568788
+34,Null-2,Uncharaceterized,0.009721273
+35,T6SS,Structural components,0.006371852
+36,InfA,Translation,0.015482128
+37,PydR,Stress,0.054257631
+38,FliA,Structural components,0.012217595
+39,PplR1,Stress,0.0094277
+40,Citrate,Carbon,0.00262797
+41,Uncharacterized-5,Uncharaceterized,0.002872361
+42,Uncharacterized-6,Uncharaceterized,0.01007649
+43,AcoR,Carbon,0.00457203
+44,TurA-1,Secondary metabolite,0.04045388
+45,Genomic-2,Genomic iModulon,0.003055366
+46,HutC,Amino acid,0.004099277
+47,Uncharacterized-7,Uncharaceterized,0.008256252
+48,Metr-I,Amino acid,0.003835372
+49,AmrZ,Structural components,0.004842095
+50,Noise-3,Uncharaceterized,0.000587868
+51,Phage-2,Phage,0.013293863
+52,HexR,Carbon,0.00639157
+53,Acetate,Carbon,0.004721608
+54,RbsR,Carbon,0.002303578
+55,Translation,Translation,0.024015549
+56,PP_5350,Carbon,0.004006199
+57,PedR1-2,Carbon,0.026119367
+58,PP_0204,Element homeostasis,0.011042911
+59,IonicLiquid,Stress,0.002123087
+60,GlnG,Amino acid,0.007485445
+61,Uncharacterized-8,Uncharaceterized,0.003671877
+62,OxyR,Stress,0.007150728
+63,Noise-4,Uncharaceterized,0.000756795
+64,PsrA,Carbon,0.00506331
+65,PcaR,Carbon,0.016256946
+66,Sulfur,Element homeostasis,0.001081771
+67,TurA-2,Translation,0.011120029
+68,FleQ-1,Structural components,0.012943943
+69,FnrA-2,Energy generation,0.016800186
+70,FruR,Carbon,0.005095106
+71,FleQ-2,Uncharaceterized,0.007573303
+72,PP_2260-3,Carbon,0.007264425
+73,GcsR,Amino acid,0.007256104
+74,PP_0615-8,Amino acid,0.003784259
+75,Noise-5,Uncharaceterized,0.003306291
+76,LiuR,Carbon,0.008072742
+77,Uncharacterized-9,Uncharaceterized,0.006084532
+78,HmgR,Amino acid,0.004004343
+79,Null-3,Uncharaceterized,0.001504602
+80,GlcC,Carbon,0.002478474
+81,AA transport,Amino acid,0.003085614
+82,Genomic-3,Genomic iModulon,0.001656953
+83,Noise-6,Uncharaceterized,0.003238741

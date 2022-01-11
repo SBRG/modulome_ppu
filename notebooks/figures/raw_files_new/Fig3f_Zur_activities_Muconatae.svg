@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="144pt" version="1.1" viewBox="0 0 463.2 144" width="463.2pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-01-10T10:30:13.478450</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 144 
+L 463.2 144 
+L 463.2 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 57.9 126 
+L 416.88 126 
+L 416.88 17.28 
+L 57.9 17.28 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#p8fc7b15db5)" d="M 74.217273 29.03324 
+L 85.095455 29.03324 
+L 85.095455 46.585666 
+L 74.217273 46.585666 
+z
+" style="fill:#d62728;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#p8fc7b15db5)" d="M 85.095455 29.03324 
+L 95.973636 29.03324 
+L 95.973636 75.155116 
+L 85.095455 75.155116 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#p8fc7b15db5)" d="M 95.973636 29.03324 
+L 106.851818 29.03324 
+L 106.851818 111.643036 
+L 95.973636 111.643036 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#p8fc7b15db5)" d="M 106.851818 29.03324 
+L 117.73 29.03324 
+L 117.73 71.087977 
+L 106.851818 71.087977 
+z
+" style="fill:#9467bd;"/>
+   </g>
+   <g id="patch_7">
+    <path clip-path="url(#p8fc7b15db5)" d="M 117.73 29.03324 
+L 128.608182 29.03324 
+L 128.608182 76.372885 
+L 117.73 76.372885 
+z
+" style="fill:#8c564b;"/>
+   </g>
+   <g id="patch_8">
+    <path clip-path="url(#p8fc7b15db5)" d="M 128.608182 29.03324 
+L 139.486364 29.03324 
+L 139.486364 106.714152 
+L 128.608182 106.714152 
+z
+" style="fill:#e377c2;"/>
+   </g>
+   <g id="patch_9">
+    <path clip-path="url(#p8fc7b15db5)" d="M 139.486364 29.03324 
+L 150.364545 29.03324 
+L 150.364545 37.763859 
+L 139.486364 37.763859 
+z
+" style="fill:#7f7f7f;"/>
+   </g>
+   <g id="patch_10">
+    <path clip-path="url(#p8fc7b15db5)" d="M 150.364545 29.03324 
+L 161.242727 29.03324 
+L 161.242727 43.729673 
+L 150.364545 43.729673 
+z
+" style="fill:#bcbd22;"/>
+   </g>
+   <g id="patch_11">
+    <path clip-path="url(#p8fc7b15db5)" d="M 161.242727 29.03324 
+L 172.120909 29.03324 
+L 172.120909 114.942902 
+L 161.242727 114.942902 
+z
+" style="fill:#17becf;"/>
+   </g>
+   <g id="patch_12">
+    <path clip-path="url(#p8fc7b15db5)" d="M 172.120909 29.03324 
+L 182.999091 29.03324 
+L 182.999091 111.743328 
+L 172.120909 111.743328 
+z
+" style="fill:#d62728;"/>
+   </g>
+   <g id="patch_13">
+    <path clip-path="url(#p8fc7b15db5)" d="M 182.999091 29.03324 
+L 193.877273 29.03324 
+L 193.877273 44.490519 
+L 182.999091 44.490519 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_14">
+    <path clip-path="url(#p8fc7b15db5)" d="M 193.877273 29.03324 
+L 204.755455 29.03324 
+L 204.755455 113.623422 
+L 193.877273 113.623422 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="patch_15">
+    <path clip-path="url(#p8fc7b15db5)" d="M 204.755455 29.03324 
+L 215.633636 29.03324 
+L 215.633636 36.528437 
+L 204.755455 36.528437 
+z
+" style="fill:#9467bd;"/>
+   </g>
+   <g id="patch_16">
+    <path clip-path="url(#p8fc7b15db5)" d="M 215.633636 29.03324 
+L 226.511818 29.03324 
+L 226.511818 30.205434 
+L 215.633636 30.205434 
+z
+" style="fill:#8c564b;"/>
+   </g>
+   <g id="patch_17">
+    <path clip-path="url(#p8fc7b15db5)" d="M 226.511818 29.03324 
+L 237.39 29.03324 
+L 237.39 79.227282 
+L 226.511818 79.227282 
+z
+" style="fill:#e377c2;"/>
+   </g>
+   <g id="patch_18">
+    <path clip-path="url(#p8fc7b15db5)" d="M 237.39 29.03324 
+L 248.268182 29.03324 
+L 248.268182 106.328169 
+L 237.39 106.328169 
+z
+" style="fill:#7f7f7f;"/>
+   </g>
+   <g id="patch_19">
+    <path clip-path="url(#p8fc7b15db5)" d="M 248.268182 29.03324 
+L 259.146364 29.03324 
+L 259.146364 110.543652 
+L 248.268182 110.543652 
+z
+" style="fill:#bcbd22;"/>
+   </g>
+   <g id="patch_20">
+    <path clip-path="url(#p8fc7b15db5)" d="M 259.146364 29.03324 
+L 270.024545 29.03324 
+L 270.024545 74.615444 
+L 259.146364 74.615444 
+z
+" style="fill:#17becf;"/>
+   </g>
+   <g id="patch_21">
+    <path clip-path="url(#p8fc7b15db5)" d="M 270.024545 29.03324 
+L 280.902727 29.03324 
+L 280.902727 39.071763 
+L 270.024545 39.071763 
+z
+" style="fill:#d62728;"/>
+   </g>
+   <g id="patch_22">
+    <path clip-path="url(#p8fc7b15db5)" d="M 280.902727 29.03324 
+L 291.780909 29.03324 
+L 291.780909 112.73679 
+L 280.902727 112.73679 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_23">
+    <path clip-path="url(#p8fc7b15db5)" d="M 291.780909 29.03324 
+L 302.659091 29.03324 
+L 302.659091 106.6963 
+L 291.780909 106.6963 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="patch_24">
+    <path clip-path="url(#p8fc7b15db5)" d="M 302.659091 29.03324 
+L 313.537273 29.03324 
+L 313.537273 42.616396 
+L 302.659091 42.616396 
+z
+" style="fill:#9467bd;"/>
+   </g>
+   <g id="patch_25">
+    <path clip-path="url(#p8fc7b15db5)" d="M 313.537273 29.03324 
+L 324.415455 29.03324 
+L 324.415455 90.617048 
+L 313.537273 90.617048 
+z
+" style="fill:#8c564b;"/>
+   </g>
+   <g id="patch_26">
+    <path clip-path="url(#p8fc7b15db5)" d="M 324.415455 29.03324 
+L 335.293636 29.03324 
+L 335.293636 91.105849 
+L 324.415455 91.105849 
+z
+" style="fill:#e377c2;"/>
+   </g>
+   <g id="patch_27">
+    <path clip-path="url(#p8fc7b15db5)" d="M 335.293636 29.03324 
+L 346.171818 29.03324 
+L 346.171818 109.122968 
+L 335.293636 109.122968 
+z
+" style="fill:#7f7f7f;"/>
+   </g>
+   <g id="patch_28">
+    <path clip-path="url(#p8fc7b15db5)" d="M 346.171818 29.03324 
+L 357.05 29.03324 
+L 357.05 28.808697 
+L 346.171818 28.808697 
+z
+" style="fill:#bcbd22;"/>
+   </g>
+   <g id="patch_29">
+    <path clip-path="url(#p8fc7b15db5)" d="M 357.05 29.03324 
+L 367.928182 29.03324 
+L 367.928182 31.922955 
+L 357.05 31.922955 
+z
+" style="fill:#17becf;"/>
+   </g>
+   <g id="patch_30">
+    <path clip-path="url(#p8fc7b15db5)" d="M 367.928182 29.03324 
+L 378.806364 29.03324 
+L 378.806364 27.360005 
+L 367.928182 27.360005 
+z
+" style="fill:#d62728;"/>
+   </g>
+   <g id="patch_31">
+    <path clip-path="url(#p8fc7b15db5)" d="M 378.806364 29.03324 
+L 389.684545 29.03324 
+L 389.684545 29.03324 
+L 378.806364 29.03324 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_32">
+    <path clip-path="url(#p8fc7b15db5)" d="M 389.684545 29.03324 
+L 400.562727 29.03324 
+L 400.562727 29.9729 
+L 389.684545 29.9729 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="mf7c7f912c4" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="57.9" xlink:href="#mf7c7f912c4" y="97.051258"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 50.9, 100.850477)" x="50.9" y="100.850477">−20</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="57.9" xlink:href="#mf7c7f912c4" y="63.042249"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 50.9, 66.841468)" x="50.9" y="66.841468">−10</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="57.9" xlink:href="#mf7c7f912c4" y="29.03324"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 50.9, 32.832459)" x="50.9" y="32.832459">0</text>
+     </g>
+    </g>
+    <g id="text_4">
+     <text style="font-family:DejaVu Sans;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(9.862313 111.193125)rotate(-90)">Zur iModulon</text>
+     <text style="font-family:DejaVu Sans;font-size:12px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(23.299688 94.079062)rotate(-90)">Activity</text>
+    </g>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path d="M 0 1.581139 
+C 0.419323 1.581139 0.821528 1.41454 1.118034 1.118034 
+C 1.41454 0.821528 1.581139 0.419323 1.581139 0 
+C 1.581139 -0.419323 1.41454 -0.821528 1.118034 -1.118034 
+C 0.821528 -1.41454 0.419323 -1.581139 0 -1.581139 
+C -0.419323 -1.581139 -0.821528 -1.41454 -1.118034 -1.118034 
+C -1.41454 -0.821528 -1.581139 -0.419323 -1.581139 0 
+C -1.581139 0.419323 -1.41454 0.821528 -1.118034 1.118034 
+C -0.821528 1.41454 -0.419323 1.581139 0 1.581139 
+z
+" id="ma7fa104736" style="stroke:#000000;"/>
+    </defs>
+    <g clip-path="url(#p8fc7b15db5)">
+     <use style="stroke:#000000;" x="79.656364" xlink:href="#ma7fa104736" y="34.487902"/>
+     <use style="stroke:#000000;" x="79.656364" xlink:href="#ma7fa104736" y="62.192392"/>
+     <use style="stroke:#000000;" x="79.656364" xlink:href="#ma7fa104736" y="43.076703"/>
+     <use style="stroke:#000000;" x="90.534545" xlink:href="#ma7fa104736" y="42.516772"/>
+     <use style="stroke:#000000;" x="90.534545" xlink:href="#ma7fa104736" y="116.94"/>
+     <use style="stroke:#000000;" x="90.534545" xlink:href="#ma7fa104736" y="66.008577"/>
+     <use style="stroke:#000000;" x="101.412727" xlink:href="#ma7fa104736" y="112.109978"/>
+     <use style="stroke:#000000;" x="101.412727" xlink:href="#ma7fa104736" y="112.479042"/>
+     <use style="stroke:#000000;" x="101.412727" xlink:href="#ma7fa104736" y="110.340089"/>
+     <use style="stroke:#000000;" x="112.290909" xlink:href="#ma7fa104736" y="56.819889"/>
+     <use style="stroke:#000000;" x="112.290909" xlink:href="#ma7fa104736" y="111.64086"/>
+     <use style="stroke:#000000;" x="112.290909" xlink:href="#ma7fa104736" y="44.803181"/>
+     <use style="stroke:#000000;" x="123.169091" xlink:href="#ma7fa104736" y="64.72922"/>
+     <use style="stroke:#000000;" x="123.169091" xlink:href="#ma7fa104736" y="116.36889"/>
+     <use style="stroke:#000000;" x="123.169091" xlink:href="#ma7fa104736" y="48.020545"/>
+     <use style="stroke:#000000;" x="134.047273" xlink:href="#ma7fa104736" y="93.535097"/>
+     <use style="stroke:#000000;" x="134.047273" xlink:href="#ma7fa104736" y="111.063797"/>
+     <use style="stroke:#000000;" x="134.047273" xlink:href="#ma7fa104736" y="115.543563"/>
+     <use style="stroke:#000000;" x="144.925455" xlink:href="#ma7fa104736" y="35.089597"/>
+     <use style="stroke:#000000;" x="144.925455" xlink:href="#ma7fa104736" y="44.632679"/>
+     <use style="stroke:#000000;" x="144.925455" xlink:href="#ma7fa104736" y="33.569302"/>
+     <use style="stroke:#000000;" x="155.803636" xlink:href="#ma7fa104736" y="47.357498"/>
+     <use style="stroke:#000000;" x="155.803636" xlink:href="#ma7fa104736" y="40.571098"/>
+     <use style="stroke:#000000;" x="155.803636" xlink:href="#ma7fa104736" y="43.260424"/>
+     <use style="stroke:#000000;" x="166.681818" xlink:href="#ma7fa104736" y="115.911246"/>
+     <use style="stroke:#000000;" x="166.681818" xlink:href="#ma7fa104736" y="115.267901"/>
+     <use style="stroke:#000000;" x="166.681818" xlink:href="#ma7fa104736" y="113.649558"/>
+     <use style="stroke:#000000;" x="177.56" xlink:href="#ma7fa104736" y="106.49603"/>
+     <use style="stroke:#000000;" x="177.56" xlink:href="#ma7fa104736" y="114.173173"/>
+     <use style="stroke:#000000;" x="177.56" xlink:href="#ma7fa104736" y="114.560782"/>
+     <use style="stroke:#000000;" x="188.438182" xlink:href="#ma7fa104736" y="51.305437"/>
+     <use style="stroke:#000000;" x="188.438182" xlink:href="#ma7fa104736" y="38.93076"/>
+     <use style="stroke:#000000;" x="188.438182" xlink:href="#ma7fa104736" y="43.23536"/>
+     <use style="stroke:#000000;" x="199.316364" xlink:href="#ma7fa104736" y="113.896224"/>
+     <use style="stroke:#000000;" x="199.316364" xlink:href="#ma7fa104736" y="114.813359"/>
+     <use style="stroke:#000000;" x="199.316364" xlink:href="#ma7fa104736" y="112.160684"/>
+     <use style="stroke:#000000;" x="210.194545" xlink:href="#ma7fa104736" y="33.13673"/>
+     <use style="stroke:#000000;" x="210.194545" xlink:href="#ma7fa104736" y="35.094032"/>
+     <use style="stroke:#000000;" x="210.194545" xlink:href="#ma7fa104736" y="41.354549"/>
+     <use style="stroke:#000000;" x="221.072727" xlink:href="#ma7fa104736" y="29.887217"/>
+     <use style="stroke:#000000;" x="221.072727" xlink:href="#ma7fa104736" y="30.52365"/>
+     <use style="stroke:#000000;" x="231.950909" xlink:href="#ma7fa104736" y="38.453084"/>
+     <use style="stroke:#000000;" x="231.950909" xlink:href="#ma7fa104736" y="106.772726"/>
+     <use style="stroke:#000000;" x="231.950909" xlink:href="#ma7fa104736" y="92.456036"/>
+     <use style="stroke:#000000;" x="242.829091" xlink:href="#ma7fa104736" y="107.56581"/>
+     <use style="stroke:#000000;" x="242.829091" xlink:href="#ma7fa104736" y="105.784644"/>
+     <use style="stroke:#000000;" x="242.829091" xlink:href="#ma7fa104736" y="105.634054"/>
+     <use style="stroke:#000000;" x="253.707273" xlink:href="#ma7fa104736" y="106.870691"/>
+     <use style="stroke:#000000;" x="253.707273" xlink:href="#ma7fa104736" y="110.375898"/>
+     <use style="stroke:#000000;" x="253.707273" xlink:href="#ma7fa104736" y="114.384368"/>
+     <use style="stroke:#000000;" x="264.585455" xlink:href="#ma7fa104736" y="80.039697"/>
+     <use style="stroke:#000000;" x="264.585455" xlink:href="#ma7fa104736" y="92.909499"/>
+     <use style="stroke:#000000;" x="264.585455" xlink:href="#ma7fa104736" y="50.897137"/>
+     <use style="stroke:#000000;" x="275.463636" xlink:href="#ma7fa104736" y="39.370485"/>
+     <use style="stroke:#000000;" x="275.463636" xlink:href="#ma7fa104736" y="37.891924"/>
+     <use style="stroke:#000000;" x="275.463636" xlink:href="#ma7fa104736" y="39.95288"/>
+     <use style="stroke:#000000;" x="286.341818" xlink:href="#ma7fa104736" y="115.864945"/>
+     <use style="stroke:#000000;" x="286.341818" xlink:href="#ma7fa104736" y="109.223216"/>
+     <use style="stroke:#000000;" x="286.341818" xlink:href="#ma7fa104736" y="113.122208"/>
+     <use style="stroke:#000000;" x="297.22" xlink:href="#ma7fa104736" y="112.457658"/>
+     <use style="stroke:#000000;" x="297.22" xlink:href="#ma7fa104736" y="112.585145"/>
+     <use style="stroke:#000000;" x="297.22" xlink:href="#ma7fa104736" y="95.046098"/>
+     <use style="stroke:#000000;" x="308.098182" xlink:href="#ma7fa104736" y="45.317975"/>
+     <use style="stroke:#000000;" x="308.098182" xlink:href="#ma7fa104736" y="37.851085"/>
+     <use style="stroke:#000000;" x="308.098182" xlink:href="#ma7fa104736" y="44.680128"/>
+     <use style="stroke:#000000;" x="318.976364" xlink:href="#ma7fa104736" y="43.223305"/>
+     <use style="stroke:#000000;" x="318.976364" xlink:href="#ma7fa104736" y="114.190392"/>
+     <use style="stroke:#000000;" x="318.976364" xlink:href="#ma7fa104736" y="114.437446"/>
+     <use style="stroke:#000000;" x="329.854545" xlink:href="#ma7fa104736" y="112.273686"/>
+     <use style="stroke:#000000;" x="329.854545" xlink:href="#ma7fa104736" y="115.117038"/>
+     <use style="stroke:#000000;" x="329.854545" xlink:href="#ma7fa104736" y="45.926822"/>
+     <use style="stroke:#000000;" x="340.732727" xlink:href="#ma7fa104736" y="111.908466"/>
+     <use style="stroke:#000000;" x="340.732727" xlink:href="#ma7fa104736" y="109.272837"/>
+     <use style="stroke:#000000;" x="340.732727" xlink:href="#ma7fa104736" y="106.187601"/>
+     <use style="stroke:#000000;" x="351.610909" xlink:href="#ma7fa104736" y="28.67018"/>
+     <use style="stroke:#000000;" x="351.610909" xlink:href="#ma7fa104736" y="30.060522"/>
+     <use style="stroke:#000000;" x="351.610909" xlink:href="#ma7fa104736" y="27.695389"/>
+     <use style="stroke:#000000;" x="362.489091" xlink:href="#ma7fa104736" y="31.705385"/>
+     <use style="stroke:#000000;" x="362.489091" xlink:href="#ma7fa104736" y="32.077343"/>
+     <use style="stroke:#000000;" x="362.489091" xlink:href="#ma7fa104736" y="31.986138"/>
+     <use style="stroke:#000000;" x="373.367273" xlink:href="#ma7fa104736" y="27.624512"/>
+     <use style="stroke:#000000;" x="373.367273" xlink:href="#ma7fa104736" y="26.34"/>
+     <use style="stroke:#000000;" x="373.367273" xlink:href="#ma7fa104736" y="28.115504"/>
+     <use style="stroke:#000000;" x="384.245455" xlink:href="#ma7fa104736" y="29.254156"/>
+     <use style="stroke:#000000;" x="384.245455" xlink:href="#ma7fa104736" y="29.376962"/>
+     <use style="stroke:#000000;" x="384.245455" xlink:href="#ma7fa104736" y="28.468603"/>
+     <use style="stroke:#000000;" x="395.123636" xlink:href="#ma7fa104736" y="30.398071"/>
+     <use style="stroke:#000000;" x="395.123636" xlink:href="#ma7fa104736" y="30.732151"/>
+     <use style="stroke:#000000;" x="395.123636" xlink:href="#ma7fa104736" y="28.788479"/>
+    </g>
+   </g>
+   <g id="LineCollection_1">
+    <path clip-path="url(#p8fc7b15db5)" d="M 74.217273 126 
+L 74.217273 17.28 
+" style="fill:none;stroke:#d3d3d3;"/>
+    <path clip-path="url(#p8fc7b15db5)" d="M 400.562727 126 
+L 400.562727 17.28 
+" style="fill:none;stroke:#d3d3d3;"/>
+   </g>
+   <g id="LineCollection_2">
+    <path clip-path="url(#p8fc7b15db5)" d="M 57.9 29.03324 
+L 416.88 29.03324 
+" style="fill:none;stroke:#000000;stroke-width:1.5;"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 57.9 126 
+L 57.9 17.28 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 416.88 126 
+L 416.88 17.28 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_35">
+    <path d="M 57.9 126 
+L 416.88 126 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 57.9 17.28 
+L 416.88 17.28 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="text_5">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(212.06321 168.281718)rotate(-45)">Muconate</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_37">
+     <path d="M 423.88 100.06125 
+L 2069.272188 100.06125 
+Q 2071.272188 100.06125 2071.272188 98.06125 
+L 2071.272188 24.28 
+Q 2071.272188 22.28 2069.272188 22.28 
+L 423.88 22.28 
+Q 421.88 22.28 421.88 24.28 
+L 421.88 98.06125 
+Q 421.88 100.06125 423.88 100.06125 
+z
+" style="fill:#ffffff;opacity:0.8;stroke:#cccccc;stroke-linejoin:miter;"/>
+    </g>
+    <g id="patch_38">
+     <path d="M 425.88 33.878438 
+L 445.88 33.878438 
+L 445.88 26.878438 
+L 425.88 26.878438 
+z
+" style="fill:#d62728;"/>
+    </g>
+    <g id="text_6">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 453.88, 33.878438)" x="453.88" y="33.878438">Muconate - CJ522_fructose</text>
+    </g>
+    <g id="patch_39">
+     <path d="M 425.88 48.834688 
+L 445.88 48.834688 
+L 445.88 41.834688 
+L 425.88 41.834688 
+z
+" style="fill:#ff7f0e;"/>
+    </g>
+    <g id="text_7">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 453.88, 48.834688)" x="453.88" y="48.834688">Muconate - CJ522_fructose_glucose</text>
+    </g>
+    <g id="patch_40">
+     <path d="M 425.88 63.790938 
+L 445.88 63.790938 
+L 445.88 56.790938 
+L 425.88 56.790938 
+z
+" style="fill:#2ca02c;"/>
+    </g>
+    <g id="text_8">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 453.88, 63.790938)" x="453.88" y="63.790938">Muconate - CJ522_fructose_glucose_gluconate</text>
+    </g>
+    <g id="patch_41">
+     <path d="M 425.88 78.747188 
+L 445.88 78.747188 
+L 445.88 71.747188 
+L 425.88 71.747188 
+z
+" style="fill:#9467bd;"/>
+    </g>
+    <g id="text_9">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 453.88, 78.747188)" x="453.88" y="78.747188">Muconate - CJ522_gluconate</text>
+    </g>
+    <g id="patch_42">
+     <path d="M 425.88 93.703438 
+L 445.88 93.703438 
+L 445.88 86.703438 
+L 425.88 86.703438 
+z
+" style="fill:#8c564b;"/>
+    </g>
+    <g id="text_10">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 453.88, 93.703438)" x="453.88" y="93.703438">Muconate - CJ522_glucose</text>
+    </g>
+    <g id="patch_43">
+     <path d="M 705.919062 33.878438 
+L 725.919062 33.878438 
+L 725.919062 26.878438 
+L 705.919062 26.878438 
+z
+" style="fill:#e377c2;"/>
+    </g>
+    <g id="text_11">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 733.919062, 33.878438)" x="733.919062" y="33.878438">Muconate - CJ522_glucose_gluconate</text>
+    </g>
+    <g id="patch_44">
+     <path d="M 705.919062 48.834688 
+L 725.919062 48.834688 
+L 725.919062 41.834688 
+L 705.919062 41.834688 
+z
+" style="fill:#7f7f7f;"/>
+    </g>
+    <g id="text_12">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 733.919062, 48.834688)" x="733.919062" y="48.834688">Muconate - GB032_fructose</text>
+    </g>
+    <g id="patch_45">
+     <path d="M 705.919062 63.790938 
+L 725.919062 63.790938 
+L 725.919062 56.790938 
+L 705.919062 56.790938 
+z
+" style="fill:#bcbd22;"/>
+    </g>
+    <g id="text_13">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 733.919062, 63.790938)" x="733.919062" y="63.790938">Muconate - GB032_fructose_glucose</text>
+    </g>
+    <g id="patch_46">
+     <path d="M 705.919062 78.747188 
+L 725.919062 78.747188 
+L 725.919062 71.747188 
+L 705.919062 71.747188 
+z
+" style="fill:#17becf;"/>
+    </g>
+    <g id="text_14">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 733.919062, 78.747188)" x="733.919062" y="78.747188">Muconate - GB032_fructose_glucose_gluconate</text>
+    </g>
+    <g id="patch_47">
+     <path d="M 705.919062 93.703438 
+L 725.919062 93.703438 
+L 725.919062 86.703438 
+L 705.919062 86.703438 
+z
+" style="fill:#d62728;"/>
+    </g>
+    <g id="text_15">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 733.919062, 93.703438)" x="733.919062" y="93.703438">Muconate - GB032_gluconate</text>
+    </g>
+    <g id="patch_48">
+     <path d="M 990.634688 33.878438 
+L 1010.634688 33.878438 
+L 1010.634688 26.878438 
+L 990.634688 26.878438 
+z
+" style="fill:#ff7f0e;"/>
+    </g>
+    <g id="text_16">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1018.634688, 33.878438)" x="1018.634688" y="33.878438">Muconate - GB032_glucose</text>
+    </g>
+    <g id="patch_49">
+     <path d="M 990.634688 48.834688 
+L 1010.634688 48.834688 
+L 1010.634688 41.834688 
+L 990.634688 41.834688 
+z
+" style="fill:#2ca02c;"/>
+    </g>
+    <g id="text_17">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1018.634688, 48.834688)" x="1018.634688" y="48.834688">Muconate - GB032_glucose_gluconate</text>
+    </g>
+    <g id="patch_50">
+     <path d="M 990.634688 63.790938 
+L 1010.634688 63.790938 
+L 1010.634688 56.790938 
+L 990.634688 56.790938 
+z
+" style="fill:#9467bd;"/>
+    </g>
+    <g id="text_18">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1018.634688, 63.790938)" x="1018.634688" y="63.790938">Muconate - GB045_fructose</text>
+    </g>
+    <g id="patch_51">
+     <path d="M 990.634688 78.747188 
+L 1010.634688 78.747188 
+L 1010.634688 71.747188 
+L 990.634688 71.747188 
+z
+" style="fill:#8c564b;"/>
+    </g>
+    <g id="text_19">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1018.634688, 78.747188)" x="1018.634688" y="78.747188">Muconate - GB045_fructose_glucose</text>
+    </g>
+    <g id="patch_52">
+     <path d="M 990.634688 93.703438 
+L 1010.634688 93.703438 
+L 1010.634688 86.703438 
+L 990.634688 86.703438 
+z
+" style="fill:#e377c2;"/>
+    </g>
+    <g id="text_20">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1018.634688, 93.703438)" x="1018.634688" y="93.703438">Muconate - GB045_fructose_glucose_gluconate</text>
+    </g>
+    <g id="patch_53">
+     <path d="M 1275.350313 33.878438 
+L 1295.350313 33.878438 
+L 1295.350313 26.878438 
+L 1275.350313 26.878438 
+z
+" style="fill:#7f7f7f;"/>
+    </g>
+    <g id="text_21">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1303.350313, 33.878438)" x="1303.350313" y="33.878438">Muconate - GB045_gluconate</text>
+    </g>
+    <g id="patch_54">
+     <path d="M 1275.350313 48.834688 
+L 1295.350313 48.834688 
+L 1295.350313 41.834688 
+L 1275.350313 41.834688 
+z
+" style="fill:#bcbd22;"/>
+    </g>
+    <g id="text_22">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1303.350313, 48.834688)" x="1303.350313" y="48.834688">Muconate - GB045_glucose</text>
+    </g>
+    <g id="patch_55">
+     <path d="M 1275.350313 63.790938 
+L 1295.350313 63.790938 
+L 1295.350313 56.790938 
+L 1275.350313 56.790938 
+z
+" style="fill:#17becf;"/>
+    </g>
+    <g id="text_23">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1303.350313, 63.790938)" x="1303.350313" y="63.790938">Muconate - GB045_glucose_gluconate</text>
+    </g>
+    <g id="patch_56">
+     <path d="M 1275.350313 78.747188 
+L 1295.350313 78.747188 
+L 1295.350313 71.747188 
+L 1275.350313 71.747188 
+z
+" style="fill:#d62728;"/>
+    </g>
+    <g id="text_24">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1303.350313, 78.747188)" x="1303.350313" y="78.747188">Muconate - GB062_fructose</text>
+    </g>
+    <g id="patch_57">
+     <path d="M 1275.350313 93.703438 
+L 1295.350313 93.703438 
+L 1295.350313 86.703438 
+L 1275.350313 86.703438 
+z
+" style="fill:#ff7f0e;"/>
+    </g>
+    <g id="text_25">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1303.350313, 93.703438)" x="1303.350313" y="93.703438">Muconate - GB062_fructose_glucose</text>
+    </g>
+    <g id="patch_58">
+     <path d="M 1514.197187 33.878438 
+L 1534.197187 33.878438 
+L 1534.197187 26.878438 
+L 1514.197187 26.878438 
+z
+" style="fill:#2ca02c;"/>
+    </g>
+    <g id="text_26">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1542.197187, 33.878438)" x="1542.197187" y="33.878438">Muconate - GB062_fructose_glucose_gluconate</text>
+    </g>
+    <g id="patch_59">
+     <path d="M 1514.197187 48.834688 
+L 1534.197187 48.834688 
+L 1534.197187 41.834688 
+L 1514.197187 41.834688 
+z
+" style="fill:#9467bd;"/>
+    </g>
+    <g id="text_27">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1542.197187, 48.834688)" x="1542.197187" y="48.834688">Muconate - GB062_gluconate</text>
+    </g>
+    <g id="patch_60">
+     <path d="M 1514.197187 63.790938 
+L 1534.197187 63.790938 
+L 1534.197187 56.790938 
+L 1514.197187 56.790938 
+z
+" style="fill:#8c564b;"/>
+    </g>
+    <g id="text_28">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1542.197187, 63.790938)" x="1542.197187" y="63.790938">Muconate - GB062_glucose</text>
+    </g>
+    <g id="patch_61">
+     <path d="M 1514.197187 78.747188 
+L 1534.197187 78.747188 
+L 1534.197187 71.747188 
+L 1514.197187 71.747188 
+z
+" style="fill:#e377c2;"/>
+    </g>
+    <g id="text_29">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1542.197187, 78.747188)" x="1542.197187" y="78.747188">Muconate - GB062_glucose_gluconate</text>
+    </g>
+    <g id="patch_62">
+     <path d="M 1514.197187 93.703438 
+L 1534.197187 93.703438 
+L 1534.197187 86.703438 
+L 1514.197187 86.703438 
+z
+" style="fill:#7f7f7f;"/>
+    </g>
+    <g id="text_30">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1542.197187, 93.703438)" x="1542.197187" y="93.703438">Muconate - KT2440_fructose</text>
+    </g>
+    <g id="patch_63">
+     <path d="M 1798.912813 33.878438 
+L 1818.912813 33.878438 
+L 1818.912813 26.878438 
+L 1798.912813 26.878438 
+z
+" style="fill:#bcbd22;"/>
+    </g>
+    <g id="text_31">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1826.912813, 33.878438)" x="1826.912813" y="33.878438">Muconate - KT2440_fructose_glucose</text>
+    </g>
+    <g id="patch_64">
+     <path d="M 1798.912813 48.834688 
+L 1818.912813 48.834688 
+L 1818.912813 41.834688 
+L 1798.912813 41.834688 
+z
+" style="fill:#17becf;"/>
+    </g>
+    <g id="text_32">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1826.912813, 48.834688)" x="1826.912813" y="48.834688">Muconate - KT2440_fructose_glucose_gluconate</text>
+    </g>
+    <g id="patch_65">
+     <path d="M 1798.912813 63.790938 
+L 1818.912813 63.790938 
+L 1818.912813 56.790938 
+L 1798.912813 56.790938 
+z
+" style="fill:#d62728;"/>
+    </g>
+    <g id="text_33">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1826.912813, 63.790938)" x="1826.912813" y="63.790938">Muconate - KT2440_gluconate</text>
+    </g>
+    <g id="patch_66">
+     <path d="M 1798.912813 78.747188 
+L 1818.912813 78.747188 
+L 1818.912813 71.747188 
+L 1798.912813 71.747188 
+z
+" style="fill:#ff7f0e;"/>
+    </g>
+    <g id="text_34">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1826.912813, 78.747188)" x="1826.912813" y="78.747188">Muconate - KT2440_glucose</text>
+    </g>
+    <g id="patch_67">
+     <path d="M 1798.912813 93.703438 
+L 1818.912813 93.703438 
+L 1818.912813 86.703438 
+L 1798.912813 86.703438 
+z
+" style="fill:#2ca02c;"/>
+    </g>
+    <g id="text_35">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 1826.912813, 93.703438)" x="1826.912813" y="93.703438">Muconate - KT2440_glucose_gluconate</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p8fc7b15db5">
+   <rect height="108.72" width="358.98" x="57.9" y="17.28"/>
+  </clipPath>
+ </defs>
+</svg>

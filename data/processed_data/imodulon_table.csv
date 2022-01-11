@@ -1,0 +1,85 @@
+,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,exp_var,single_gene,TU_size,reg_type,Category,Sub_category,Function,iModulon_type
+Null-1,,,,,,,,,0.0,,0.011927205186894718,,0.0,,Uncharacterized,Empty,Null,Uncharacterized
+GbdR,GbdR,1.6916427764179089e-31,1.353314221134327e-30,0.4722222222222222,0.5483870967741935,0.5074626865671641,17.0,31.0,36.0,1.0,0.007778687783269289,,24.0,Closet-match,Stress,Osmotic stress,Glycine Betaine Catabolism,Regulatory
+PP_2034-7,,,,,,,,,4.0,,0.005607168712619237,,3.0,,Carbon,Aromatics catabolism,Benzoate catabolism,Functional
+Multiple stress-1,,,,,,,,,58.0,,0.03382262454874474,,48.0,,Stress,Multiple stress,Multiple stress response,Functional
+PedR1-1,PedR1,3.624905387390659e-05,7.249810774781318e-05,1.0,0.058823529411764705,0.1111111111111111,2.0,34.0,2.0,1.0,0.0011456942385309477,,2.0,Subset,Carbon,Aromatics catabolism,Alcohol/aromatics catabolism,Regulatory
+Acetate stress,,,,,,,,,10.0,,0.006667028057013025,,7.0,,Stress,Acetate stress,Acetate specific response,Functional
+Noise-1,,,,,,,,,1.0,,0.0007709437366351102,True,1.0,,Uncharacterized,Noisy genes,"Noise, PP_2520 hypothetical protein, 117 bp",Uncharacterized
+Genomic-1,,,,,,,,,10.0,,0.048937004841349,,8.0,,Genomic,Genomic iModulon,Muconate production study,Genomic
+Zinc,,,,,,,,,17.0,,0.002119243887333755,,15.0,,Element homeostasis,Metal homeostasis,Metal related response,Functional
+TCA cycle,,,,,,,,,55.0,,0.007588160774591235,,50.0,,Carbon,TCA cycle,TCA cycle,Functional
+Redox,,,,,,,,,3.0,,0.006251173492552997,,3.0,,Stress,Redox stress,Redox state homeostasis,Functional
+Pentose and glucuronate,,,,,,,,,9.0,,0.008579656246170075,,8.0,,Carbon,Sugar catabolism,Pentose and glucuronate interconversions,Functional
+GclR,GclR,1.182625719550119e-23,8.278380036850833e-23,0.7142857142857143,0.5263157894736842,0.6060606060606061,10.0,19.0,14.0,1.0,0.007290905788709168,,10.0,Subset,Carbon,Sugar catabolism,C2 carbon metabolism,Regulatory
+FnrA-1,FnrA,3.1754012975586827e-06,2.222780908291078e-05,0.1875,0.2727272727272727,0.2222222222222222,3.0,11.0,16.0,1.0,0.007104172422709998,,10.0,Closet-match,Energy generation,Oxidative phosphorylation,Redox state homeostasis,Regulatory
+Osmotic stress-1,,,,,,,,,46.0,,0.01012039662247688,,43.0,,Stress,Osmotic stress,"Osmotic stress, lipoprotein, membrane",Functional
+Phage-1,,,,,,,,,29.0,,0.005737343978595155,,13.0,,Phage,Phage,Phage related,Functional
+Multiple stress-2,,,,,,,,,9.0,,0.006227647381483958,,9.0,,Stress,Multiple stress,"Multiple stress response, PP_3231-89",Functional
+Putrescine,,,,,,,,,7.0,,0.004176546962742056,,6.0,,Carbon,Diverse metabolism,Polyamine metabolism,Functional
+Unchar-1,,,,,,,,,6.0,,0.009410548854764,,5.0,,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+Zur,Zur,9.059639843933641e-41,4.529819921966821e-40,0.5151515151515151,1.0,0.6799999999999999,17.0,17.0,33.0,1.0,0.0185910392578571,,19.0,New_containing,Element homeostasis,Metal homeostasis,Metal homeostasis,Regulatory
+Unchar-2,,,,,,,,,28.0,,0.011537036895335029,,27.0,,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+LldR,LldR,5.575521449856381e-10,1.1151042899712762e-09,0.75,0.75,0.75,3.0,4.0,4.0,1.0,0.0033166578450779527,,2.0,Well-matched,Carbon,Small carbon catabolism,Lactate catabolism,Regulatory
+VanR,VanR,1.39406837743939e-10,4.1822051323181696e-10,0.75,1.0,0.8571428571428571,3.0,3.0,4.0,1.0,0.002390685647482682,,3.0,Well-matched,Carbon,Aromatics catabolism,Aromatic acid catabolism,Regulatory
+Osmotic stress-2,,,,,,,,,31.0,,0.016068128846303376,,23.0,,Stress,Osmotic stress,Osmotic stress response,Functional
+ColR,ColR,9.406766761349486e-07,3.7627067045397944e-06,0.2727272727272727,0.2727272727272727,0.2727272727272727,3.0,11.0,11.0,1.0,0.003427459184704773,,8.0,Closet-match,Element homeostasis,Metal homeostasis,Metal related response,Regulatory
+Unchar-3,,,,,,,,,11.0,,0.01778078201382105,,5.0,,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+Exporters,,,,,,,,,10.0,,0.008094466826792046,,8.0,,Stress,Export,"FleQ related exporters, aldehyde stress",Functional
+BenR,BenR,5.264419335742154e-12,2.632209667871077e-11,0.4,1.0,0.5714285714285715,4.0,4.0,10.0,1.0,0.004792742265574135,,4.0,New_containing,Carbon,Aromatics catabolism,Aromatic acid catabolism,Regulatory
+PtxS,PtxS,7.279373476754345e-24,1.455874695350869e-23,0.7272727272727273,1.0,0.8421052631578948,8.0,8.0,11.0,1.0,0.012208550275057739,,6.0,Well-matched,Carbon,Sugar catabolism,Sugar catabolism,Regulatory
+Noise-2,,,,,,,,,1.0,,0.0008988362514106285,True,1.0,,Uncharacterized,Noisy genes,"Noise, PP_1176 hypothetical protein, 135 bp",Uncharacterized
+PvdS,PvdS,8.923723551971684e-27,5.35423413118301e-26,0.3333333333333333,0.9230769230769231,0.489795918367347,12.0,13.0,36.0,1.0,0.0066089934161359665,,19.0,New_containing,Secondary metabolite,Pyoverdine production,Pyoverdine biosynthesis,Regulatory
+BkdR,BkdR,1.3479372735312663e-07,6.739686367656332e-07,0.15789473684210525,0.75,0.2608695652173913,3.0,4.0,19.0,1.0,0.028435223091896722,,9.0,New_containing,Stress,Stationary phase,Starvation response,Regulatory
+GltR-II,GltR-II,2.6487622424764895e-14,1.3243811212382446e-13,0.7142857142857143,0.625,0.6666666666666666,5.0,8.0,7.0,1.0,0.009041590996685112,,4.0,Well-matched,Carbon,Sugar catabolism,Sugar catabolism,Regulatory
+Unchar-4,,,,,,,,,5.0,,0.0015688708196187617,,2.0,,Uncharacterized,Uncharacterized iModulons,ICE related,Uncharacterized
+Null-2,,,,,,,,,0.0,,0.009719873308720262,,0.0,,Uncharacterized,Empty,Null,Uncharacterized
+T6SS,,,,,,,,,15.0,,0.006371575487341019,,3.0,,Structural components,Secretion system,T6SS system,Functional
+InfA,,,,,,,,,4.0,,0.01547920360680477,,4.0,,Translation,Translation,Translation,Functional
+PydR/RpoS,PydR,3.2126213679939564e-12,3.212621367993956e-11,0.16666666666666666,1.0,0.2857142857142857,5.0,5.0,30.0,1.0,0.054259557526421975,,27.0,New_containing,Stress,Stationary phase,Stationary phase response,Regulatory
+FliA,FliA,1.4830990559356014e-10,5.932396223742406e-10,0.1724137931034483,0.625,0.2702702702702703,5.0,8.0,29.0,1.0,0.012216514444301718,,25.0,New_containing,Structural components,Cell mobility,Cell mobility,Regulatory
+PplR1,PplR1,2.0447027746621972e-45,8.178811098648789e-45,0.7727272727272727,1.0,0.8717948717948718,17.0,17.0,22.0,1.0,0.00942738395380871,,9.0,Well-matched,Stress,Osmotic stress,Light inducible iModulon,Regulatory
+Citrate,,,,,,,,,5.0,,0.0026278688003833484,,4.0,,Carbon,Acid catabolism,Citrate transportation,Functional
+Unchar-5,,,,,,,,,12.0,,0.0028702130886147925,,12.0,,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+Unchar-6,,,,,,,,,80.0,,0.010075694135408098,,56.0,,Uncharacterized,Uncharacterized iModulons,mfsR related,Uncharacterized
+AcoR,AcoR,4.734190050103578e-16,4.734190050103578e-16,1.0,0.7142857142857143,0.8333333333333333,5.0,7.0,5.0,1.0,0.004571288637164939,,1.0,Well-matched,Carbon,Small carbon catabolism,Acetoin catabolism,Regulatory
+TurA-1,TurA,5.7440631473672975e-22,2.8720315736836485e-21,0.9411764705882353,0.07048458149779736,0.13114754098360654,16.0,227.0,17.0,1.0,0.04045892132340434,,6.0,Subset,Secondary metabolite,Secondary metabolite biosynthesis,Biosynthesis of lipodepsinonapeptide phytotoxins,Regulatory
+Genomic-2,,,,,,,,,4.0,,0.0030566716940069183,,3.0,,Genomic,Genomic iModulon,TurA deletion,Genomic
+HutC,HutC,5.717633436747564e-17,2.858816718373782e-16,0.6666666666666666,0.75,0.7058823529411765,6.0,8.0,9.0,1.0,0.004099457139244422,,5.0,Well-matched,Amino acid,Synthesis/degradation,Histidine metabolism,Regulatory
+Unchar-7,,,,,,,,,117.0,,0.00825554686560892,,67.0,,Uncharacterized,Uncharacterized iModulons,Galactose ALE specific,Uncharacterized
+Metr-I,Metr-I,3.4060619574823635e-14,6.243510133316454e-14,0.8333333333333334,0.5,0.625,5.0,10.0,6.0,1.0,0.003835510700533562,,4.0,Subset,Amino acid,Synthesis/degradation,Homocysteine metabolism,Regulatory
+AmrZ,AmrZ,3.352203960782784e-20,2.0113223764696704e-19,1.0,0.08695652173913043,0.16,12.0,138.0,12.0,1.0,0.004841760959904184,,1.0,Subset,Structural components,Biofilm,Alginate biosynthesis,Regulatory
+Noise-3,,,,,,,,,1.0,,0.000588091144553271,True,1.0,,Uncharacterized,Noisy genes,"Noise, PP_5437 hypothetical protein, 183 bp",Uncharacterized
+Phage-2,,,,,,,,,47.0,,0.013292652514838577,,20.0,,Phage,Phage,Phage related,Functional
+HexR,HexR,0.0,0.0,1.0,1.0,1.0,9.0,9.0,9.0,1.0,0.006392568532112897,,4.0,Well-matched,Carbon,Sugar catabolism,Sugar catabolism,Regulatory
+Acetate,,,,,,,,,4.0,,0.004719367515891637,,3.0,,Carbon,Acid catabolism,Acetate utilization,Functional
+RbsR,RbsR,9.935838181767662e-15,6.955086727237363e-14,0.7142857142857143,0.7142857142857143,0.7142857142857143,5.0,7.0,7.0,1.0,0.0023036148026742698,,4.0,Well-matched,Carbon,Ribose/lipid catabolism,"Ribose, nicotinic acid catabolism",Regulatory
+Translation,,,,,,,,,45.0,,0.024015683376229835,,16.0,,Translation,Translation,Protein synthesis,Functional
+PP_5350,PP_5350,4.876607111377962e-09,4.876607111377962e-09,0.75,0.42857142857142855,0.5454545454545454,3.0,7.0,4.0,1.0,0.004006650724082683,,3.0,Subset,Carbon,Acid catabolism,Glyoxylate and dicarboxylate metabolism,Regulatory
+PedR1-2,PedR1,5.459880459776475e-59,2.18395218391059e-58,0.8387096774193549,0.7647058823529411,0.7999999999999999,26.0,34.0,31.0,1.0,0.02611898870092444,,17.0,Well-matched,Carbon,Aromatics catabolism,Alcohol/aromatics catabolism,Regulatory
+PP_0204/CysB,PP_0204,7.0073572713644035e-06,2.1022071814093212e-05,0.10344827586206896,0.375,0.16216216216216217,3.0,8.0,29.0,1.0,0.011042874905240363,,17.0,Closet-match,Element homeostasis,Sulfur homeostasis,Sulfur metabolism,Regulatory
+IonicLiquid,,,,,,,,,14.0,,0.00212048086159633,,9.0,,Stress,Chemical stress,Triethylamine hydrogen sulfate stress,Functional
+GlnG,GlnG,9.140627058653338e-17,1.8281254117306675e-16,0.8181818181818182,0.14285714285714285,0.2432432432432432,9.0,63.0,11.0,1.0,0.007485897405484665,,4.0,Subset,Amino acid,Transportation,Amino acid transportation,Regulatory
+Unchar-8,,,,,,,,,14.0,,0.0036717392255101178,,11.0,,Uncharacterized,Uncharacterized iModulons,potentially iron metabolism,Uncharacterized
+OxyR,OxyR,3.0632277338048836e-08,3.0632277338048836e-08,0.25,0.75,0.375,3.0,4.0,12.0,1.0,0.0071512690088875175,,12.0,New_containing,Stress,Oxidative stress,Oxidative stress,Regulatory
+Noise-4,,,,,,,,,1.0,,0.0007566690007748678,True,1.0,,Uncharacterized,Noisy genes,"Noise, kdpF, too small peptide",Uncharacterized
+PsrA,PsrA,1.7710926083277323e-08,7.084370433310929e-08,0.3076923076923077,0.2857142857142857,0.29629629629629634,4.0,14.0,13.0,1.0,0.005064582639265569,,9.0,Closet-match,Carbon,Fatty acid catabolism,Fatty acid catabolism,Regulatory
+PcaR,PcaR,6.332920106998015e-20,6.966212117697816e-19,0.2,1.0,0.33333333333333337,9.0,9.0,45.0,1.0,0.016256815302952532,,32.0,New_containing,Carbon,Aromatics catabolism,Aromatic acid catabolism,Regulatory
+Sulfur,,,,,,,,,5.0,,0.0010825425903538965,True,2.0,,Element homeostasis,Sulfur homeostasis,PP_3636-3639,Functional
+TurA-2,TurA,1.192241615274433e-05,3.576724845823299e-05,0.5555555555555556,0.022026431718061675,0.042372881355932215,5.0,227.0,9.0,1.0,0.01111977135567721,,9.0,Closet-match,Translation,Posttranslation,Chaeperone,Regulatory
+FleQ/AmrZ,FleQ,3.184224599608163e-41,2.865802139647347e-40,0.8409090909090909,0.12374581939799331,0.21574344023323613,37.0,299.0,44.0,1.0,0.012943859838587368,,18.0,Subset,Structural components,Cell mobility,Flagella synthesis,Regulatory
+FnrA-2,FnrA,4.617024492745335e-06,2.7702146956472012e-05,0.16666666666666666,0.2727272727272727,0.20689655172413793,3.0,11.0,18.0,1.0,0.016797266744042583,,12.0,Closet-match,Energy generation,Oxidative phosphorylation,potentially iron metabolism,Regulatory
+FruR,FruR,1.3936923474632655e-09,8.362154084779594e-09,0.75,0.6,0.6666666666666665,3.0,5.0,4.0,1.0,0.005096728961030528,,2.0,Subset,Carbon,Sugar catabolism,Fructose catabolism,Regulatory
+FleQ/Fur,FleQ,5.254700049736404e-26,5.780170054710044e-25,0.7222222222222222,0.08695652173913043,0.15522388059701492,26.0,299.0,36.0,1.0,0.007578932825804241,,27.0,Subset,Element homeostasis,Iron homeostasis,Inorganic ion transport and metabolism,Regulatory
+PP_2260-3,,,,,,,,,6.0,,0.007262786935701593,,1.0,,Carbon,Sugar catabolism,"PP_2260-3, sugar transport",Functional
+GcsR,GcsR,0.0,0.0,1.0,1.0,1.0,4.0,4.0,4.0,1.0,0.007256059551571381,,2.0,Well-matched,Amino acid,Synthesis/degradation,Glycine metabolism,Regulatory
+PP_0615-8,,,,,,,,,8.0,,0.003783883114043207,,4.0,,Amino acid,Transportation,Branched amino acid transportation,Functional
+Noise-5,,,,,,,,,1.0,,0.003304366185947649,True,1.0,,Uncharacterized,Noisy genes,"Noise, PP_1864, hypothetical protein, 153 bp",Uncharacterized
+LiuR,LiuR,4.32816377117618e-10,3.895347394058562e-09,0.3333333333333333,0.5714285714285714,0.4210526315789474,4.0,7.0,12.0,1.0,0.008072125327940771,,8.0,Closet-match,Carbon,Ribose/lipid catabolism,Ribose and lipid catabolism,Regulatory
+Unchar-9,,,,,,,,,2.0,,0.006085154005638027,,2.0,,Uncharacterized,Uncharacterized iModulons,Unknown,Uncharacterized
+HmgR,HmgR,2.325027315076591e-06,2.325027315076591e-06,0.5,0.5,0.5,2.0,4.0,4.0,1.0,0.0040046969365179486,,2.0,Closet-match,Amino acid,Synthesis/degradation,Tyrosine metabolism,Regulatory
+Null-3,,,,,,,,,0.0,,0.0015047006678117203,,0.0,,Uncharacterized,Empty,Null,Uncharacterized
+GlcC,GlcC,1.2534331751757664e-13,2.506866350351533e-13,1.0,0.8,0.888888888888889,4.0,5.0,4.0,1.0,0.0024788572181684287,,1.0,Well-matched,Carbon,Acid catabolism,Glycolate catabolism,Regulatory
+AA transport,,,,,,,,,11.0,,0.0030848610091828155,,5.0,,Amino acid,Transportation,Amino acid transportation,Functional
+Genomic-3,,,,,,,,,1.0,,0.0016580104603872714,True,1.0,,Genomic,Genomic iModulon,TurB deletion,Genomic
+Noise-6,,,,,,,,,1.0,,0.003239487152874254,,1.0,,Uncharacterized,Noisy genes,"Noise, PP_0943, hypothetical protein, 393 bp",Uncharacterized

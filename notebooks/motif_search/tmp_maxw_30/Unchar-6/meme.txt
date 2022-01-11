@@ -1,0 +1,97 @@
+********************************************************************************
+MEME - Motif discovery tool
+********************************************************************************
+MEME version 5.4.1 (Release date: Sat Aug 21 19:23:23 2021 -0700)
+
+For further information on how to interpret these results please access https://meme-suite.org/meme.
+To get a copy of the MEME Suite software please access https://meme-suite.org.
+
+********************************************************************************
+
+
+********************************************************************************
+REFERENCE
+********************************************************************************
+If you use this program in your research, please cite:
+
+Timothy L. Bailey and Charles Elkan,
+"Fitting a mixture model by expectation maximization to
+discover motifs in biopolymers",
+Proceedings of the Second International Conference on Intelligent Systems
+for Molecular Biology, pp. 28-36, AAAI Press, Menlo Park, California, 1994.
+********************************************************************************
+
+
+********************************************************************************
+TRAINING SET
+********************************************************************************
+PRIMARY SEQUENCES= ./motif_search/tmp_maxw_30/Unchar-6.fasta
+CONTROL SEQUENCES= --none--
+ALPHABET= ACGT
+Sequence name            Weight Length  Sequence name            Weight Length  
+-------------            ------ ------  -------------            ------ ------  
+Op1117                   1.0000    600  Op1118                   1.0000    600  
+Op1214                   1.0000    600  Op1215                   1.0000    600  
+Op1216                   1.0000    600  Op1218                   1.0000    600  
+Op1228                   1.0000    600  Op1230                   1.0000    600  
+Op1234                   1.0000    600  Op1235                   1.0000    600  
+Op1246                   1.0000    600  Op1249                   1.0000    600  
+Op1250                   1.0000    600  Op1251                   1.0000    600  
+Op1252                   1.0000    600  Op1315                   1.0000    600  
+Op1471                   1.0000    600  Op1479                   1.0000    600  
+Op1482                   1.0000    600  Op1522                   1.0000    600  
+Op1611                   1.0000    600  Op1667                   1.0000    600  
+Op1909                   1.0000    600  Op1966                   1.0000    600  
+Op2017                   1.0000    600  Op2022                   1.0000    600  
+Op2050                   1.0000    600  Op2250                   1.0000    600  
+Op227                    1.0000    600  Op2399                   1.0000    600  
+Op2408                   1.0000    600  Op2427                   1.0000    600  
+Op2428                   1.0000    600  Op2429                   1.0000    600  
+Op2537                   1.0000    600  Op2544                   1.0000    600  
+Op2608                   1.0000    600  Op2628                   1.0000    600  
+Op2661                   1.0000    600  Op2664                   1.0000    600  
+Op2746                   1.0000    600  Op2812                   1.0000    600  
+Op2838                   1.0000    600  Op2839                   1.0000    600  
+Op2842                   1.0000    600  Op2868                   1.0000    600  
+Op2890                   1.0000    600  Op3096                   1.0000    600  
+Op3098                   1.0000    600  Op32                     1.0000    600  
+Op343                    1.0000    600  Op409                    1.0000    600  
+Op410                    1.0000    600  Op413                    1.0000    600  
+Op676                    1.0000    600  Op698                    1.0000    600  
+********************************************************************************
+
+********************************************************************************
+COMMAND LINE SUMMARY
+********************************************************************************
+This information can also be useful in the event you wish to report a
+problem with the MEME software.
+
+command: meme ./motif_search/tmp_maxw_30/Unchar-6.fasta -oc ./motif_search/tmp_maxw_30/Unchar-6 -dna -mod zoops -p 8 -nmotifs 5 -evt 0.001 -minw 6 -maxw 30 -allw -minsites 18 
+
+model:  mod=         zoops    nmotifs=      1000    evt=         0.001
+objective function:           em=       E-value of product of p-values
+                              starts=   E-value of product of p-values
+strands: +
+width:  minw=            6    maxw=           30
+nsites: minsites=       18    maxsites=       56    wnsites=       0.8
+theta:  spmap=         uni    spfuzz=        0.5
+em:     prior=   dirichlet    b=            0.01    maxiter=        50
+        distance=    1e-05
+trim:   wg=             11    ws=              1    endgaps=       yes
+data:   n=           33600    N=              56
+sample: seed=            0    hsfrac=          0
+        searchsize=  33600    norand=         no    csites=       1000
+Letter frequencies in dataset:
+A 0.248 C 0.258 G 0.254 T 0.24 
+Background letter frequencies (from file dataset with add-one prior applied):
+A 0.248 C 0.258 G 0.254 T 0.24 
+Background model order: 0
+********************************************************************************
+
+********************************************************************************
+Stopped because the next motif E-value > 1.00e-03.
+********************************************************************************
+
+CPU: Hyungyus-MacBook-Pro.local
+
+********************************************************************************

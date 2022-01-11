@@ -1,0 +1,17 @@
+Sample_name,mu_avg,mu_std,mu1,mu2,mu3,Growth_rate_reference,conc_gL
+Muconate:KT2440_gluconate,0.62,0.01,0.620821429,0.609151577,0.620652881,This study,4
+ALE:GalactoseA8,0.52,0.01,0.510269042,0.52929223,,10.1021/acssuschemeng.1c03765,4
+ALE:IL_Glc+Ace,0.42,0.03,0.442754298,0.426343009,0.389577122,10.1039/D0GC01663B,4
+ALE:GalactoseA6,0.4,0,0.401724969,0.397248925,,10.1021/acssuschemeng.1c03765,4
+Carbon:Citrate,0.4,0.05,,,,10.1111/1758-2229.12704,1.92
+Aromatic:Coumarate+ferulate,0.38,0,,,,10.1016/j.mec.2020.e00143,5
+Carbon:Ferulate,0.36,0.01,,,,10.1111/1758-2229.12704,1.94
+Aromatic:Ferulate,0.36,0.01,,,,10.1111/1758-2229.12704,5
+ALE:GalactoseA5,0.35,0.02,0.37039266,0.327870239,,10.1021/acssuschemeng.1c03765,4
+Aromatic:Coumarate,0.3,0,,,,10.1016/j.mec.2020.e00143,5
+ALE:XyloseA4,0.26,0,0.258,0.253,,10.1021/acssuschemeng.1c03765,4
+Muconate:KT2440_fructose,0.24,0.02,0.226585478,0.227969538,0.269948366,This study,4
+ALE:XyloseA1,0.23,0,0.23,0.239,,10.1021/acssuschemeng.1c03765,4
+ALE:XyloseA2,0.23,0.01,0.217,0.24,,10.1021/acssuschemeng.1c03765,4
+ALE:XyloseA3,0.2,0.01,0.192,0.216,,10.1021/acssuschemeng.1c03765,4
+Carbon:Serine,0.16,0.01,,,,10.1111/1758-2229.12704,1.05
